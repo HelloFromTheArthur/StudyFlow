@@ -1,0 +1,4595 @@
+{
+  "programs": {
+    "BSc_CSIT": {
+      "curriculum": {
+        "university": "Tribhuvan University",
+        "faculty": "Institute of Science and Technology (IOST)",
+        "program": "Bachelor of Science in Computer Science and Information Technology (B.Sc. CSIT)",
+        "effective_year": "2079 (2022)",
+        "total_credits": 126,
+        "total_semesters": 8
+      },
+      "semesters": [
+        {
+          "semester": 1,
+          "credits": 15,
+          "total_marks": 500,
+          "core_count": 5,
+          "elective_count": 0
+        },
+        {
+          "semester": 2,
+          "credits": 15,
+          "total_marks": 500,
+          "core_count": 5,
+          "elective_count": 0
+        },
+        {
+          "semester": 3,
+          "credits": 15,
+          "total_marks": 500,
+          "core_count": 5,
+          "elective_count": 0
+        },
+        {
+          "semester": 4,
+          "credits": 15,
+          "total_marks": 500,
+          "core_count": 5,
+          "elective_count": 0
+        },
+        {
+          "semester": 5,
+          "credits": 18,
+          "total_marks": 600,
+          "core_count": 5,
+          "elective_count": 1
+        },
+        {
+          "semester": 6,
+          "credits": 18,
+          "total_marks": 600,
+          "core_count": 5,
+          "elective_count": 1
+        },
+        {
+          "semester": 7,
+          "credits": 15,
+          "total_marks": 500,
+          "core_count": 4,
+          "elective_count": 1
+        },
+        {
+          "semester": 8,
+          "credits": 15,
+          "total_marks": 500,
+          "core_count": 2,
+          "elective_count": 2
+        }
+      ],
+      "courses": [
+        {
+          "code": "CSC114",
+          "title": "Introduction to Information Technology",
+          "semester": 1,
+          "category": "Core",
+          "credit_hours": 3,
+          "nature": "Theory + Lab",
+          "full_marks": 100,
+          "pass_marks": 40,
+          "evaluation": {
+            "theory_final": 60,
+            "theory_internal": 20,
+            "practical_internal": 20
+          },
+          "units": [
+            { "unit_no": 1, "title": "Introduction to Computer", "hours": 3 },
+            {
+              "unit_no": 2,
+              "title": "The Computer System Hardware",
+              "hours": 3
+            },
+            { "unit_no": 3, "title": "Computer Memory", "hours": 4 },
+            { "unit_no": 4, "title": "Input and Output Devices", "hours": 4 },
+            { "unit_no": 5, "title": "Data Representation", "hours": 6 },
+            { "unit_no": 6, "title": "Computer Software", "hours": 6 },
+            {
+              "unit_no": 7,
+              "title": "Data Communication and Computer Network",
+              "hours": 5
+            },
+            {
+              "unit_no": 8,
+              "title": "The Internet and Internet Services",
+              "hours": 4
+            },
+            { "unit_no": 9, "title": "Fundamentals of Database", "hours": 4 },
+            { "unit_no": 10, "title": "Multimedia", "hours": 3 },
+            { "unit_no": 11, "title": "Computer Security", "hours": 3 }
+          ]
+        },
+        {
+          "code": "CSC115",
+          "title": "C Programming",
+          "semester": 1,
+          "category": "Core",
+          "credit_hours": 3,
+          "nature": "Theory + Lab",
+          "full_marks": 100,
+          "pass_marks": 40,
+          "evaluation": {
+            "theory_final": 60,
+            "theory_internal": 20,
+            "practical_internal": 20
+          },
+          "units": [
+            {
+              "unit_no": 1,
+              "title": "Problem Solving with Computer",
+              "hours": 2
+            },
+            { "unit_no": 2, "title": "Elements of C", "hours": 4 },
+            { "unit_no": 3, "title": "Input and Output", "hours": 2 },
+            { "unit_no": 4, "title": "Operators and Expression", "hours": 4 },
+            { "unit_no": 5, "title": "Control Statement", "hours": 4 },
+            { "unit_no": 6, "title": "Arrays", "hours": 6 },
+            { "unit_no": 7, "title": "Functions", "hours": 5 },
+            { "unit_no": 8, "title": "Structure and Union", "hours": 5 },
+            { "unit_no": 9, "title": "Pointers", "hours": 6 },
+            { "unit_no": 10, "title": "File Handling in C", "hours": 4 },
+            { "unit_no": 11, "title": "Introduction to Graphics", "hours": 3 }
+          ]
+        },
+        {
+          "code": "CSC116",
+          "title": "Digital Logic",
+          "semester": 1,
+          "category": "Core",
+          "credit_hours": 3,
+          "nature": "Theory + Lab",
+          "full_marks": 100,
+          "pass_marks": 40,
+          "evaluation": {
+            "theory_final": 60,
+            "theory_internal": 20,
+            "practical_internal": 20
+          },
+          "units": [
+            { "unit_no": 1, "title": "Binary Systems", "hours": 6 },
+            {
+              "unit_no": 2,
+              "title": "Boolean Algebra and Logic Gates",
+              "hours": 5
+            },
+            {
+              "unit_no": 3,
+              "title": "Simplification of Boolean Functions",
+              "hours": 5
+            },
+            { "unit_no": 4, "title": "Combinational Logic", "hours": 5 },
+            {
+              "unit_no": 5,
+              "title": "Combinational Logic with MSI and LSI",
+              "hours": 8
+            },
+            {
+              "unit_no": 6,
+              "title": "Synchronous and Asynchronous Sequential Logic",
+              "hours": 10
+            },
+            { "unit_no": 7, "title": "Registers and Counters", "hours": 6 }
+          ]
+        },
+        {
+          "code": "MTH117",
+          "title": "Mathematics I",
+          "semester": 1,
+          "category": "Core",
+          "credit_hours": 3,
+          "nature": "Theory",
+          "full_marks": 100,
+          "pass_marks": 40,
+          "evaluation": {
+            "theory_final": 60,
+            "theory_internal": 40,
+            "practical_internal": 0
+          },
+          "units": [
+            { "unit_no": 1, "title": "Function of One Variable", "hours": 5 },
+            { "unit_no": 2, "title": "Limits and Continuity", "hours": 4 },
+            { "unit_no": 3, "title": "Derivatives", "hours": 4 },
+            {
+              "unit_no": 4,
+              "title": "Applications of Derivatives",
+              "hours": 4
+            },
+            { "unit_no": 5, "title": "Antiderivatives", "hours": 5 },
+            {
+              "unit_no": 6,
+              "title": "Applications of Antiderivatives",
+              "hours": 5
+            },
+            {
+              "unit_no": 7,
+              "title": "Ordinary Differential Equations",
+              "hours": 6
+            },
+            {
+              "unit_no": 8,
+              "title": "Infinite Sequence and Series",
+              "hours": 5
+            },
+            { "unit_no": 9, "title": "Plane and Space Vectors", "hours": 4 },
+            {
+              "unit_no": 10,
+              "title": "Partial Derivatives and Multiple Integrals",
+              "hours": 3
+            }
+          ]
+        },
+        {
+          "code": "PHY118",
+          "title": "Physics",
+          "semester": 1,
+          "category": "Core",
+          "credit_hours": 3,
+          "nature": "Theory + Lab",
+          "full_marks": 100,
+          "pass_marks": 40,
+          "evaluation": {
+            "theory_final": 60,
+            "theory_internal": 20,
+            "practical_internal": 20
+          },
+          "units": [
+            {
+              "unit_no": 1,
+              "title": "Rotational Dynamics and Oscillatory Motion",
+              "hours": 5
+            },
+            {
+              "unit_no": 2,
+              "title": "Electric and Magnetic Field",
+              "hours": 5
+            },
+            {
+              "unit_no": 3,
+              "title": "Fundamentals of Atomic Theory",
+              "hours": 8
+            },
+            {
+              "unit_no": 4,
+              "title": "Methods of Quantum Mechanics",
+              "hours": 5
+            },
+            {
+              "unit_no": 5,
+              "title": "Fundamentals of Solid State Physics",
+              "hours": 6
+            },
+            {
+              "unit_no": 6,
+              "title": "Semiconductor and Semiconductor devices",
+              "hours": 8
+            },
+            {
+              "unit_no": 7,
+              "title": "Universal Gates and Physics of Integrated Circuits",
+              "hours": 8
+            }
+          ]
+        },
+        {
+          "code": "CSC165",
+          "title": "Discrete Structures",
+          "semester": 2,
+          "category": "Core",
+          "credit_hours": 3,
+          "nature": "Theory + Lab",
+          "full_marks": 100,
+          "pass_marks": 40,
+          "evaluation": {
+            "theory_final": 60,
+            "theory_internal": 20,
+            "practical_internal": 20
+          },
+          "units": [
+            { "unit_no": 1, "title": "Basic Discrete Structures", "hours": 7 },
+            { "unit_no": 2, "title": "Integers and Matrices", "hours": 6 },
+            { "unit_no": 3, "title": "Logic and Proof Methods", "hours": 6 },
+            { "unit_no": 4, "title": "Induction and Recursion", "hours": 5 },
+            {
+              "unit_no": 5,
+              "title": "Counting and Discrete Probability",
+              "hours": 9
+            },
+            { "unit_no": 6, "title": "Relations and Graphs", "hours": 12 }
+          ]
+        },
+        {
+          "code": "CSC166",
+          "title": "Object Oriented Programming",
+          "semester": 2,
+          "category": "Core",
+          "credit_hours": 3,
+          "nature": "Theory + Lab",
+          "full_marks": 100,
+          "pass_marks": 40,
+          "evaluation": {
+            "theory_final": 60,
+            "theory_internal": 20,
+            "practical_internal": 20
+          },
+          "units": [
+            {
+              "unit_no": 1,
+              "title": "Introduction to Object Oriented Programming",
+              "hours": 3
+            },
+            { "unit_no": 2, "title": "Basics of C++ Programming", "hours": 5 },
+            { "unit_no": 3, "title": "Classes & Objects", "hours": 8 },
+            { "unit_no": 4, "title": "Operator Overloading", "hours": 7 },
+            { "unit_no": 5, "title": "Inheritance", "hours": 7 },
+            {
+              "unit_no": 6,
+              "title": "Virtual Function, Polymorphism, and Miscellaneous C++ Features",
+              "hours": 5
+            },
+            {
+              "unit_no": 7,
+              "title": "Function Templates and Exception Handling",
+              "hours": 4
+            },
+            { "unit_no": 8, "title": "File Handling", "hours": 6 }
+          ]
+        },
+        {
+          "code": "CSC167",
+          "title": "Microprocessor",
+          "semester": 2,
+          "category": "Core",
+          "credit_hours": 3,
+          "nature": "Theory + Lab",
+          "full_marks": 100,
+          "pass_marks": 40,
+          "evaluation": {
+            "theory_final": 60,
+            "theory_internal": 20,
+            "practical_internal": 20
+          },
+          "units": [
+            { "unit_no": 1, "title": "Introduction", "hours": 4 },
+            { "unit_no": 2, "title": "Basic Architecture", "hours": 7 },
+            { "unit_no": 3, "title": "Instruction Cycle", "hours": 3 },
+            {
+              "unit_no": 4,
+              "title": "Assembly Language Programming",
+              "hours": 10
+            },
+            {
+              "unit_no": 5,
+              "title": "Basic I/O, Memory R/W and Interrupt Operations",
+              "hours": 6
+            },
+            { "unit_no": 6, "title": "Input/Output Interfaces", "hours": 6 },
+            { "unit_no": 7, "title": "Advanced Microprocessors", "hours": 9 }
+          ]
+        },
+        {
+          "code": "MTH168",
+          "title": "Mathematics II",
+          "semester": 2,
+          "category": "Core",
+          "credit_hours": 3,
+          "nature": "Theory",
+          "full_marks": 100,
+          "pass_marks": 40,
+          "evaluation": {
+            "theory_final": 60,
+            "theory_internal": 40,
+            "practical_internal": 0
+          },
+          "units": [
+            {
+              "unit_no": 1,
+              "title": "Linear Equations in Linear Algebra",
+              "hours": 5
+            },
+            { "unit_no": 2, "title": "Transformation", "hours": 4 },
+            { "unit_no": 3, "title": "Matrix Algebra", "hours": 5 },
+            { "unit_no": 4, "title": "Determinants", "hours": 4 },
+            { "unit_no": 5, "title": "Vector Spaces", "hours": 5 },
+            { "unit_no": 6, "title": "Vector Space Continued", "hours": 4 },
+            {
+              "unit_no": 7,
+              "title": "Eigenvalues and Eigen Vectors",
+              "hours": 5
+            },
+            {
+              "unit_no": 8,
+              "title": "Orthogonality and Least Squares",
+              "hours": 5
+            },
+            { "unit_no": 9, "title": "Groups and Subgroups", "hours": 5 },
+            { "unit_no": 10, "title": "Rings and Fields", "hours": 4 }
+          ]
+        },
+        {
+          "code": "STA169",
+          "title": "Statistics I",
+          "semester": 2,
+          "category": "Core",
+          "credit_hours": 3,
+          "nature": "Theory + Lab",
+          "full_marks": 100,
+          "pass_marks": 40,
+          "evaluation": {
+            "theory_final": 60,
+            "theory_internal": 20,
+            "practical_internal": 20
+          },
+          "units": [
+            { "unit_no": 1, "title": "Introduction", "hours": 4 },
+            { "unit_no": 2, "title": "Descriptive Statistics", "hours": 6 },
+            {
+              "unit_no": 3,
+              "title": "Introduction to Probability",
+              "hours": 8
+            },
+            { "unit_no": 4, "title": "Sampling", "hours": 3 },
+            {
+              "unit_no": 5,
+              "title": "Random Variables and Mathematical Expectation",
+              "hours": 5
+            },
+            { "unit_no": 6, "title": "Probability Distributions", "hours": 12 },
+            {
+              "unit_no": 7,
+              "title": "Correlation and Linear Regression",
+              "hours": 7
+            }
+          ]
+        },
+        {
+          "code": "CSC211",
+          "title": "Data Structures and Algorithms",
+          "semester": 3,
+          "category": "Core",
+          "credit_hours": 3,
+          "nature": "Theory + Lab",
+          "full_marks": 100,
+          "pass_marks": 40,
+          "evaluation": {
+            "theory_final": 60,
+            "theory_internal": 20,
+            "practical_internal": 20
+          },
+          "units": [
+            {
+              "unit_no": 1,
+              "title": "Introduction to Data Structures & Algorithms",
+              "hours": 4
+            },
+            { "unit_no": 2, "title": "Stack", "hours": 4 },
+            { "unit_no": 3, "title": "Queue", "hours": 4 },
+            { "unit_no": 4, "title": "Recursion", "hours": 3 },
+            { "unit_no": 5, "title": "Lists", "hours": 8 },
+            { "unit_no": 6, "title": "Sorting", "hours": 8 },
+            { "unit_no": 7, "title": "Searching and Hashing", "hours": 6 },
+            { "unit_no": 8, "title": "Trees and Graphs", "hours": 8 }
+          ]
+        },
+        {
+          "code": "CSC212",
+          "title": "Numerical Method",
+          "semester": 3,
+          "category": "Core",
+          "credit_hours": 3,
+          "nature": "Theory + Lab",
+          "full_marks": 100,
+          "pass_marks": 40,
+          "evaluation": {
+            "theory_final": 60,
+            "theory_internal": 20,
+            "practical_internal": 20
+          },
+          "units": [
+            {
+              "unit_no": 1,
+              "title": "Solution of Nonlinear Equations",
+              "hours": 8
+            },
+            {
+              "unit_no": 2,
+              "title": "Interpolation and Regression",
+              "hours": 8
+            },
+            {
+              "unit_no": 3,
+              "title": "Numerical Differentiation and Integration",
+              "hours": 8
+            },
+            {
+              "unit_no": 4,
+              "title": "Solving System of Linear Equations",
+              "hours": 8
+            },
+            {
+              "unit_no": 5,
+              "title": "Solution of Ordinary Differential Equations",
+              "hours": 8
+            },
+            {
+              "unit_no": 6,
+              "title": "Solution of Partial Differential Equations",
+              "hours": 5
+            }
+          ]
+        },
+        {
+          "code": "CSC213",
+          "title": "Computer Architecture",
+          "semester": 3,
+          "category": "Core",
+          "credit_hours": 3,
+          "nature": "Theory + Lab",
+          "full_marks": 100,
+          "pass_marks": 40,
+          "evaluation": {
+            "theory_final": 60,
+            "theory_internal": 20,
+            "practical_internal": 20
+          },
+          "units": [
+            { "unit_no": 1, "title": "Data Representation", "hours": 4 },
+            {
+              "unit_no": 2,
+              "title": "Register Transfer and Microoperations",
+              "hours": 5
+            },
+            {
+              "unit_no": 3,
+              "title": "Basic Computer Organization and Design",
+              "hours": 8
+            },
+            { "unit_no": 4, "title": "Microprogrammed Control", "hours": 4 },
+            { "unit_no": 5, "title": "Central Processing Unit", "hours": 4 },
+            { "unit_no": 6, "title": "Pipelining", "hours": 6 },
+            { "unit_no": 7, "title": "Computer Arithmetic", "hours": 6 },
+            { "unit_no": 8, "title": "Input Output Organization", "hours": 4 },
+            { "unit_no": 9, "title": "Memory Organization", "hours": 4 }
+          ]
+        },
+        {
+          "code": "CSC214",
+          "title": "Computer Graphics",
+          "semester": 3,
+          "category": "Core",
+          "credit_hours": 3,
+          "nature": "Theory + Lab",
+          "full_marks": 100,
+          "pass_marks": 40,
+          "evaluation": {
+            "theory_final": 60,
+            "theory_internal": 20,
+            "practical_internal": 20
+          },
+          "units": [
+            {
+              "unit_no": 1,
+              "title": "Introduction of Computer Graphics",
+              "hours": 3
+            },
+            { "unit_no": 2, "title": "Scan Conversion Algorithm", "hours": 6 },
+            {
+              "unit_no": 3,
+              "title": "Two-Dimensional Geometric Transformations",
+              "hours": 5
+            },
+            {
+              "unit_no": 4,
+              "title": "Three-Dimensional Geometric Transformation",
+              "hours": 5
+            },
+            { "unit_no": 5, "title": "3D Objects Representation", "hours": 7 },
+            { "unit_no": 6, "title": "Solid Modeling", "hours": 4 },
+            { "unit_no": 7, "title": "Visible Surface Detections", "hours": 5 },
+            {
+              "unit_no": 8,
+              "title": "Illumination Models and Surface Rendering Techniques",
+              "hours": 5
+            },
+            {
+              "unit_no": 9,
+              "title": "Introduction to Virtual Reality",
+              "hours": 2
+            },
+            { "unit_no": 10, "title": "Introduction to OpenGL", "hours": 3 }
+          ]
+        },
+        {
+          "code": "STA215",
+          "title": "Statistics II",
+          "semester": 3,
+          "category": "Core",
+          "credit_hours": 3,
+          "nature": "Theory + Lab",
+          "full_marks": 100,
+          "pass_marks": 40,
+          "evaluation": {
+            "theory_final": 60,
+            "theory_internal": 20,
+            "practical_internal": 20
+          },
+          "units": [
+            {
+              "unit_no": 1,
+              "title": "Sampling Distribution and Estimation",
+              "hours": 6
+            },
+            { "unit_no": 2, "title": "Testing of Hypothesis", "hours": 8 },
+            { "unit_no": 3, "title": "Non-parametric Test", "hours": 8 },
+            {
+              "unit_no": 4,
+              "title": "Multiple Correlation and Regression",
+              "hours": 6
+            },
+            { "unit_no": 5, "title": "Design of Experiment", "hours": 10 },
+            { "unit_no": 6, "title": "Stochastic Process", "hours": 7 }
+          ]
+        },
+        {
+          "code": "CSC262",
+          "title": "Theory of Computation",
+          "semester": 4,
+          "category": "Core",
+          "credit_hours": 3,
+          "nature": "Theory + Lab",
+          "full_marks": 100,
+          "pass_marks": 40,
+          "evaluation": {
+            "theory_final": 60,
+            "theory_internal": 20,
+            "practical_internal": 20
+          },
+          "units": [
+            { "unit_no": 1, "title": "Basic Foundations", "hours": 3 },
+            {
+              "unit_no": 2,
+              "title": "Introduction to Finite Automata",
+              "hours": 8
+            },
+            { "unit_no": 3, "title": "Regular Expressions", "hours": 6 },
+            { "unit_no": 4, "title": "Context Free Grammar", "hours": 9 },
+            { "unit_no": 5, "title": "Push Down Automata", "hours": 7 },
+            { "unit_no": 6, "title": "Turing Machines", "hours": 10 },
+            {
+              "unit_no": 7,
+              "title": "Undecidability and Intractability",
+              "hours": 5
+            }
+          ]
+        },
+        {
+          "code": "CSC263",
+          "title": "Computer Networks",
+          "semester": 4,
+          "category": "Core",
+          "credit_hours": 3,
+          "nature": "Theory + Lab",
+          "full_marks": 100,
+          "pass_marks": 40,
+          "evaluation": {
+            "theory_final": 60,
+            "theory_internal": 20,
+            "practical_internal": 20
+          },
+          "units": [
+            {
+              "unit_no": 1,
+              "title": "Introduction to Computer Network",
+              "hours": 6
+            },
+            {
+              "unit_no": 2,
+              "title": "Physical Layer and Network Media",
+              "hours": 4
+            },
+            { "unit_no": 3, "title": "Data Link Layer", "hours": 8 },
+            { "unit_no": 4, "title": "Network Layer", "hours": 10 },
+            { "unit_no": 5, "title": "Transport Layer", "hours": 6 },
+            { "unit_no": 6, "title": "Application Layer", "hours": 7 },
+            {
+              "unit_no": 7,
+              "title": "Multimedia & Future Networking",
+              "hours": 4
+            }
+          ]
+        },
+        {
+          "code": "CSC264",
+          "title": "Operating Systems",
+          "semester": 4,
+          "category": "Core",
+          "credit_hours": 3,
+          "nature": "Theory + Lab",
+          "full_marks": 100,
+          "pass_marks": 40,
+          "evaluation": {
+            "theory_final": 60,
+            "theory_internal": 20,
+            "practical_internal": 20
+          },
+          "units": [
+            { "unit_no": 1, "title": "Operating System Overview", "hours": 4 },
+            { "unit_no": 2, "title": "Process Management", "hours": 10 },
+            { "unit_no": 3, "title": "Process Deadlocks", "hours": 6 },
+            { "unit_no": 4, "title": "Memory Management", "hours": 8 },
+            { "unit_no": 5, "title": "File Management", "hours": 6 },
+            { "unit_no": 6, "title": "Device Management", "hours": 6 },
+            { "unit_no": 7, "title": "Linux Case Study", "hours": 5 }
+          ]
+        },
+        {
+          "code": "CSC265",
+          "title": "Database Management System",
+          "semester": 4,
+          "category": "Core",
+          "credit_hours": 3,
+          "nature": "Theory + Lab",
+          "full_marks": 100,
+          "pass_marks": 40,
+          "evaluation": {
+            "theory_final": 60,
+            "theory_internal": 20,
+            "practical_internal": 20
+          },
+          "units": [
+            {
+              "unit_no": 1,
+              "title": "Database and Database Users",
+              "hours": 2
+            },
+            {
+              "unit_no": 2,
+              "title": "Database System - Concepts and Architecture",
+              "hours": 3
+            },
+            {
+              "unit_no": 3,
+              "title": "Data Modeling Using the Entity-Relational Model",
+              "hours": 6
+            },
+            {
+              "unit_no": 4,
+              "title": "The Relational Data Model and Relational Database Constraints",
+              "hours": 3
+            },
+            {
+              "unit_no": 5,
+              "title": "The Relational Algebra and Relational Calculus",
+              "hours": 5
+            },
+            { "unit_no": 6, "title": "SQL", "hours": 8 },
+            { "unit_no": 7, "title": "Relational Database Design", "hours": 7 },
+            {
+              "unit_no": 8,
+              "title": "Introduction to Transaction Processing Concepts and Theory",
+              "hours": 4
+            },
+            {
+              "unit_no": 9,
+              "title": "Concurrency Control Techniques",
+              "hours": 4
+            },
+            {
+              "unit_no": 10,
+              "title": "Database Recovery Techniques",
+              "hours": 3
+            }
+          ]
+        },
+        {
+          "code": "CSC266",
+          "title": "Artificial Intelligence",
+          "semester": 4,
+          "category": "Core",
+          "credit_hours": 3,
+          "nature": "Theory + Lab",
+          "full_marks": 100,
+          "pass_marks": 40,
+          "evaluation": {
+            "theory_final": 60,
+            "theory_internal": 20,
+            "practical_internal": 20
+          },
+          "units": [
+            { "unit_no": 1, "title": "Introduction", "hours": 3 },
+            { "unit_no": 2, "title": "Intelligent Agents", "hours": 4 },
+            {
+              "unit_no": 3,
+              "title": "Problem Solving by Searching",
+              "hours": 9
+            },
+            { "unit_no": 4, "title": "Knowledge Representation", "hours": 14 },
+            { "unit_no": 5, "title": "Machine Learning", "hours": 9 },
+            { "unit_no": 6, "title": "Applications of AI", "hours": 6 }
+          ]
+        },
+        {
+          "code": "CSC325",
+          "title": "Design and Analysis of Algorithms",
+          "semester": 5,
+          "category": "Core",
+          "credit_hours": 3,
+          "nature": "Theory + Lab",
+          "full_marks": 100,
+          "pass_marks": 40,
+          "evaluation": {
+            "theory_final": 60,
+            "theory_internal": 20,
+            "practical_internal": 20
+          },
+          "units": [
+            {
+              "unit_no": 1,
+              "title": "Foundation of Algorithm Analysis",
+              "hours": 4
+            },
+            { "unit_no": 2, "title": "Iterative Algorithms", "hours": 4 },
+            {
+              "unit_no": 3,
+              "title": "Divide and Conquer Algorithms",
+              "hours": 8
+            },
+            { "unit_no": 4, "title": "Greedy Algorithms", "hours": 6 },
+            { "unit_no": 5, "title": "Dynamic Programming", "hours": 8 },
+            { "unit_no": 6, "title": "Backtracking", "hours": 5 },
+            {
+              "unit_no": 7,
+              "title": "Number Theoretic Algorithms",
+              "hours": 5
+            },
+            { "unit_no": 8, "title": "NP Completeness", "hours": 5 }
+          ]
+        },
+        {
+          "code": "CSC326",
+          "title": "System Analysis and Design",
+          "semester": 5,
+          "category": "Core",
+          "credit_hours": 3,
+          "nature": "Theory + Lab",
+          "full_marks": 100,
+          "pass_marks": 40,
+          "evaluation": {
+            "theory_final": 60,
+            "theory_internal": 20,
+            "practical_internal": 20
+          },
+          "units": [
+            {
+              "unit_no": 1,
+              "title": "Foundations for Systems Development",
+              "hours": 10
+            },
+            { "unit_no": 2, "title": "Planning", "hours": 5 },
+            { "unit_no": 3, "title": "Analysis", "hours": 13 },
+            { "unit_no": 4, "title": "Design", "hours": 7 },
+            {
+              "unit_no": 5,
+              "title": "Implementation and Maintenance",
+              "hours": 4
+            },
+            {
+              "unit_no": 6,
+              "title": "Introduction to Object-Oriented Development",
+              "hours": 6
+            }
+          ]
+        },
+        {
+          "code": "CSC327",
+          "title": "Cryptography",
+          "semester": 5,
+          "category": "Core",
+          "credit_hours": 3,
+          "nature": "Theory + Lab",
+          "full_marks": 100,
+          "pass_marks": 40,
+          "evaluation": {
+            "theory_final": 60,
+            "theory_internal": 20,
+            "practical_internal": 20
+          },
+          "units": [
+            {
+              "unit_no": 1,
+              "title": "Introduction and Classical Ciphers",
+              "hours": 7
+            },
+            { "unit_no": 2, "title": "Symmetric Ciphers", "hours": 10 },
+            { "unit_no": 3, "title": "Asymmetric Ciphers", "hours": 8 },
+            {
+              "unit_no": 4,
+              "title": "Cryptographic Hash Functions and Digital Signatures",
+              "hours": 8
+            },
+            { "unit_no": 5, "title": "Authentication", "hours": 3 },
+            {
+              "unit_no": 6,
+              "title": "Network Security and Public Key Infrastructure",
+              "hours": 6
+            },
+            { "unit_no": 7, "title": "Malicious Logic", "hours": 3 }
+          ]
+        },
+        {
+          "code": "CSC328",
+          "title": "Simulation and Modeling",
+          "semester": 5,
+          "category": "Core",
+          "credit_hours": 3,
+          "nature": "Theory + Lab",
+          "full_marks": 100,
+          "pass_marks": 40,
+          "evaluation": {
+            "theory_final": 60,
+            "theory_internal": 20,
+            "practical_internal": 20
+          },
+          "units": [
+            { "unit_no": 1, "title": "Introduction to Simulation", "hours": 6 },
+            {
+              "unit_no": 2,
+              "title": "Simulation of Continuous and Discrete System",
+              "hours": 7
+            },
+            { "unit_no": 3, "title": "Queuing System", "hours": 6 },
+            { "unit_no": 4, "title": "Markov Chains", "hours": 2 },
+            { "unit_no": 5, "title": "Random Numbers", "hours": 7 },
+            {
+              "unit_no": 6,
+              "title": "Verification and Validation",
+              "hours": 4
+            },
+            {
+              "unit_no": 7,
+              "title": "Analysis of Simulation Output",
+              "hours": 4
+            },
+            {
+              "unit_no": 8,
+              "title": "Simulation of Computer Systems",
+              "hours": 9
+            }
+          ]
+        },
+        {
+          "code": "CSC329",
+          "title": "Web Technology",
+          "semester": 5,
+          "category": "Core",
+          "credit_hours": 3,
+          "nature": "Theory + Lab",
+          "full_marks": 100,
+          "pass_marks": 40,
+          "evaluation": {
+            "theory_final": 60,
+            "theory_internal": 20,
+            "practical_internal": 20
+          },
+          "units": [
+            { "unit_no": 1, "title": "Introduction", "hours": 3 },
+            {
+              "unit_no": 2,
+              "title": "Hyper Text Markup Language (HTML)",
+              "hours": 10
+            },
+            {
+              "unit_no": 3,
+              "title": "Cascading Style Sheets (CSS)",
+              "hours": 8
+            },
+            {
+              "unit_no": 4,
+              "title": "Client Side Scripting with JavaScript",
+              "hours": 9
+            },
+            { "unit_no": 5, "title": "AJAX and XML", "hours": 7 },
+            {
+              "unit_no": 6,
+              "title": "Server Side Scripting using PHP",
+              "hours": 8
+            }
+          ]
+        },
+        {
+          "code": "CSC330",
+          "title": "Multimedia Computing",
+          "semester": 5,
+          "category": "Elective I",
+          "credit_hours": 3,
+          "nature": "Theory + Lab",
+          "full_marks": 100,
+          "pass_marks": 40,
+          "evaluation": {
+            "theory_final": 60,
+            "theory_internal": 20,
+            "practical_internal": 20
+          },
+          "units": [
+            { "unit_no": 1, "title": "Introduction", "hours": 5 },
+            { "unit_no": 2, "title": "Sound / Audio System", "hours": 6 },
+            { "unit_no": 3, "title": "Images and Graphics", "hours": 5 },
+            { "unit_no": 4, "title": "Video and Animation", "hours": 6 },
+            { "unit_no": 5, "title": "Data Compression", "hours": 8 },
+            { "unit_no": 6, "title": "User Interfaces", "hours": 5 },
+            {
+              "unit_no": 7,
+              "title": "Abstractions for Programming",
+              "hours": 5
+            },
+            { "unit_no": 8, "title": "Multimedia Application", "hours": 5 }
+          ]
+        },
+        {
+          "code": "CSC331",
+          "title": "Wireless Networking",
+          "semester": 5,
+          "category": "Elective I",
+          "credit_hours": 3,
+          "nature": "Theory + Lab",
+          "full_marks": 100,
+          "pass_marks": 40,
+          "evaluation": {
+            "theory_final": 60,
+            "theory_internal": 20,
+            "practical_internal": 20
+          },
+          "units": [
+            { "unit_no": 1, "title": "Introduction", "hours": 4 },
+            {
+              "unit_no": 2,
+              "title": "Wireless Channel Characterization",
+              "hours": 4
+            },
+            {
+              "unit_no": 3,
+              "title": "Wireless Communication Techniques",
+              "hours": 12
+            },
+            {
+              "unit_no": 4,
+              "title": "Fundamental of Cellular Communications",
+              "hours": 5
+            },
+            {
+              "unit_no": 5,
+              "title": "Mobility Management in Wireless Networks",
+              "hours": 6
+            },
+            {
+              "unit_no": 6,
+              "title": "Overview of Mobile Network and Transport Layer",
+              "hours": 8
+            },
+            {
+              "unit_no": 7,
+              "title": "Advances in Wireless Networking",
+              "hours": 6
+            }
+          ]
+        },
+        {
+          "code": "CSC332",
+          "title": "Image Processing",
+          "semester": 5,
+          "category": "Elective I",
+          "credit_hours": 3,
+          "nature": "Theory + Lab",
+          "full_marks": 100,
+          "pass_marks": 40,
+          "evaluation": {
+            "theory_final": 60,
+            "theory_internal": 20,
+            "practical_internal": 20
+          },
+          "units": [
+            { "unit_no": 1, "title": "Introduction", "hours": 5 },
+            {
+              "unit_no": 2,
+              "title": "Image Enhancement and Filter in Spatial Domain",
+              "hours": 8
+            },
+            {
+              "unit_no": 3,
+              "title": "Image Enhancement in the Frequency Domain",
+              "hours": 8
+            },
+            {
+              "unit_no": 4,
+              "title": "Image Restoration and Compression",
+              "hours": 8
+            },
+            {
+              "unit_no": 5,
+              "title": "Introduction to Morphological Image Processing",
+              "hours": 2
+            },
+            { "unit_no": 6, "title": "Image Segmentation", "hours": 8 },
+            {
+              "unit_no": 7,
+              "title": "Representations, Description and Recognition",
+              "hours": 6
+            }
+          ]
+        },
+        {
+          "code": "CSC333",
+          "title": "Knowledge Management",
+          "semester": 5,
+          "category": "Elective I",
+          "credit_hours": 3,
+          "nature": "Theory + Lab",
+          "full_marks": 100,
+          "pass_marks": 40,
+          "evaluation": {
+            "theory_final": 60,
+            "theory_internal": 20,
+            "practical_internal": 20
+          },
+          "units": [
+            {
+              "unit_no": 1,
+              "title": "An Introduction and Evolution of Knowledge Management",
+              "hours": 9
+            },
+            {
+              "unit_no": 2,
+              "title": "Organization and Knowledge Management",
+              "hours": 9
+            },
+            {
+              "unit_no": 3,
+              "title": "Telecommunications and Networks in KM",
+              "hours": 10
+            },
+            {
+              "unit_no": 4,
+              "title": "Components of a Knowledge Strategy - Case Studies",
+              "hours": 8
+            },
+            {
+              "unit_no": 5,
+              "title": "Advanced Topics and Case Studies in KM",
+              "hours": 9
+            }
+          ]
+        },
+        {
+          "code": "CSC334",
+          "title": "Society and Ethics in Information Technology",
+          "semester": 5,
+          "category": "Elective I",
+          "credit_hours": 3,
+          "nature": "Theory + Lab",
+          "full_marks": 100,
+          "pass_marks": 40,
+          "evaluation": {
+            "theory_final": 60,
+            "theory_internal": 20,
+            "practical_internal": 20
+          },
+          "units": [
+            { "unit_no": 1, "title": "Introduction", "hours": 4 },
+            { "unit_no": 2, "title": "Social and Cultural Change", "hours": 6 },
+            { "unit_no": 3, "title": "Understanding Development", "hours": 5 },
+            { "unit_no": 4, "title": "Process of Transformation", "hours": 4 },
+            {
+              "unit_no": 5,
+              "title": "Ethics and Ethical Analysis",
+              "hours": 4
+            },
+            {
+              "unit_no": 6,
+              "title": "Intellectual Property Rights and Computer Technology",
+              "hours": 6
+            },
+            {
+              "unit_no": 7,
+              "title": "Social Context of Computing",
+              "hours": 4
+            },
+            { "unit_no": 8, "title": "Software Issues", "hours": 5 },
+            {
+              "unit_no": 9,
+              "title": "New Frontiers for Computer Ethics",
+              "hours": 7
+            }
+          ]
+        },
+        {
+          "code": "CSC335",
+          "title": "Microprocessor Based Design",
+          "semester": 5,
+          "category": "Elective I",
+          "credit_hours": 3,
+          "nature": "Theory + Lab",
+          "full_marks": 100,
+          "pass_marks": 40,
+          "evaluation": {
+            "theory_final": 60,
+            "theory_internal": 20,
+            "practical_internal": 20
+          },
+          "units": [
+            {
+              "unit_no": 1,
+              "title": "Introduction to Microcontroller",
+              "hours": 12
+            },
+            { "unit_no": 2, "title": "Sensors and Actuators", "hours": 7 },
+            {
+              "unit_no": 3,
+              "title": "Bus and Communication Technology",
+              "hours": 8
+            },
+            {
+              "unit_no": 4,
+              "title": "Introduction to 8051 Microcontroller and Programming",
+              "hours": 12
+            },
+            {
+              "unit_no": 5,
+              "title": "Electromagnetic Interference and Compatibility",
+              "hours": 6
+            }
+          ]
+        },
+        {
+          "code": "CSC375",
+          "title": "Software Engineering",
+          "semester": 6,
+          "category": "Core",
+          "credit_hours": 3,
+          "nature": "Theory + Lab",
+          "full_marks": 100,
+          "pass_marks": 40,
+          "evaluation": {
+            "theory_final": 60,
+            "theory_internal": 20,
+            "practical_internal": 20
+          },
+          "units": [
+            { "unit_no": 1, "title": "Introduction", "hours": 2 },
+            { "unit_no": 2, "title": "Software Processes", "hours": 5 },
+            { "unit_no": 3, "title": "Agile Software Development", "hours": 3 },
+            { "unit_no": 4, "title": "Requirements Engineering", "hours": 3 },
+            { "unit_no": 5, "title": "System Modeling", "hours": 6 },
+            { "unit_no": 6, "title": "Architectural Design", "hours": 6 },
+            { "unit_no": 7, "title": "Design and Implementation", "hours": 5 },
+            { "unit_no": 8, "title": "Software Testing", "hours": 5 },
+            { "unit_no": 9, "title": "Software Evolution", "hours": 3 },
+            { "unit_no": 10, "title": "Software Management", "hours": 7 }
+          ]
+        },
+        {
+          "code": "CSC376",
+          "title": "Compiler Design and Construction",
+          "semester": 6,
+          "category": "Core",
+          "credit_hours": 3,
+          "nature": "Theory + Lab",
+          "full_marks": 100,
+          "pass_marks": 40,
+          "evaluation": {
+            "theory_final": 60,
+            "theory_internal": 20,
+            "practical_internal": 20
+          },
+          "units": [
+            {
+              "unit_no": 1,
+              "title": "Compiler Structure & Basic Concepts",
+              "hours": 3
+            },
+            {
+              "unit_no": 2,
+              "title": "Lexical, Syntax, and Semantic Analysis",
+              "hours": 22
+            },
+            {
+              "unit_no": 3,
+              "title": "Symbol Table Design and Run-time Storage",
+              "hours": 4
+            },
+            {
+              "unit_no": 4,
+              "title": "Intermediate Code Generation & Code Optimization",
+              "hours": 16
+            }
+          ]
+        },
+        {
+          "code": "CSC377",
+          "title": "E-Governance",
+          "semester": 6,
+          "category": "Core",
+          "credit_hours": 3,
+          "nature": "Theory + Lab",
+          "full_marks": 100,
+          "pass_marks": 40,
+          "evaluation": {
+            "theory_final": 60,
+            "theory_internal": 20,
+            "practical_internal": 20
+          },
+          "units": [
+            {
+              "unit_no": 1,
+              "title": "Introduction to E-Government and E-Governance",
+              "hours": 5
+            },
+            { "unit_no": 2, "title": "Models of E-Governance", "hours": 10 },
+            {
+              "unit_no": 3,
+              "title": "E-Government Infrastructure Development",
+              "hours": 10
+            },
+            { "unit_no": 4, "title": "Security for e-Government", "hours": 5 },
+            {
+              "unit_no": 5,
+              "title": "Applications of Data Warehousing and Data Mining in Government",
+              "hours": 5
+            },
+            { "unit_no": 6, "title": "Case Studies", "hours": 10 }
+          ]
+        },
+        {
+          "code": "CSC378",
+          "title": ".NET Centric Computing",
+          "semester": 6,
+          "category": "Core",
+          "credit_hours": 3,
+          "nature": "Theory + Lab",
+          "full_marks": 100,
+          "pass_marks": 40,
+          "evaluation": {
+            "theory_final": 60,
+            "theory_internal": 20,
+            "practical_internal": 20
+          },
+          "units": [
+            { "unit_no": 1, "title": "Language Preliminaries", "hours": 8 },
+            { "unit_no": 2, "title": "Introduction to ASP.NET", "hours": 3 },
+            { "unit_no": 3, "title": "HTTP and ASP.NET Core", "hours": 3 },
+            {
+              "unit_no": 4,
+              "title": "Creating ASP.NET Core MVC Applications",
+              "hours": 10
+            },
+            { "unit_no": 5, "title": "Working with Database", "hours": 6 },
+            {
+              "unit_no": 6,
+              "title": "State Management on ASP.NET Core Application",
+              "hours": 4
+            },
+            {
+              "unit_no": 7,
+              "title": "Client-side Development in ASP.NET Core",
+              "hours": 4
+            },
+            {
+              "unit_no": 8,
+              "title": "Securing ASP.NET Core Application",
+              "hours": 5
+            },
+            {
+              "unit_no": 9,
+              "title": "Hosting and Deploying ASP.NET Core Application",
+              "hours": 2
+            }
+          ]
+        },
+        {
+          "code": "CSC379",
+          "title": "Technical Writing",
+          "semester": 6,
+          "category": "Core",
+          "credit_hours": 3,
+          "nature": "Theory",
+          "full_marks": 100,
+          "pass_marks": 40,
+          "evaluation": {
+            "theory_final": 60,
+            "theory_internal": 40,
+            "practical_internal": 0
+          },
+          "units": [
+            { "unit_no": 1, "title": "What Is Technical Writing", "hours": 3 },
+            { "unit_no": 2, "title": "Audience and Purpose", "hours": 3 },
+            { "unit_no": 3, "title": "Writing Process", "hours": 4 },
+            { "unit_no": 4, "title": "Brief Correspondence", "hours": 4 },
+            {
+              "unit_no": 5,
+              "title": "Document Design and Graphics",
+              "hours": 4
+            },
+            { "unit_no": 6, "title": "Writing for the Web", "hours": 4 },
+            { "unit_no": 7, "title": "Information Reports", "hours": 5 },
+            { "unit_no": 8, "title": "Employment Communication", "hours": 5 },
+            { "unit_no": 9, "title": "Presentations", "hours": 5 },
+            { "unit_no": 10, "title": "Recommendation Reports", "hours": 3 },
+            { "unit_no": 11, "title": "Proposals", "hours": 3 },
+            { "unit_no": 12, "title": "Ethics in the Workplace", "hours": 2 }
+          ]
+        },
+        {
+          "code": "CSC380",
+          "title": "Applied Logic",
+          "semester": 6,
+          "category": "Elective II",
+          "credit_hours": 3,
+          "nature": "Theory + Lab",
+          "full_marks": 100,
+          "pass_marks": 40,
+          "evaluation": {
+            "theory_final": 60,
+            "theory_internal": 20,
+            "practical_internal": 20
+          },
+          "units": [
+            { "unit_no": 1, "title": "Argument Analysis", "hours": 6 },
+            {
+              "unit_no": 2,
+              "title": "Categorical Propositions and Syllogisms",
+              "hours": 10
+            },
+            { "unit_no": 3, "title": "Symbolic Logic", "hours": 12 },
+            { "unit_no": 4, "title": "Quantification Theory", "hours": 6 },
+            { "unit_no": 5, "title": "Fallacies", "hours": 6 },
+            {
+              "unit_no": 6,
+              "title": "Analogical and Causal Reasoning",
+              "hours": 5
+            }
+          ]
+        },
+        {
+          "code": "CSC381",
+          "title": "E-Commerce",
+          "semester": 6,
+          "category": "Elective II",
+          "credit_hours": 3,
+          "nature": "Theory + Lab",
+          "full_marks": 100,
+          "pass_marks": 40,
+          "evaluation": {
+            "theory_final": 60,
+            "theory_internal": 20,
+            "practical_internal": 20
+          },
+          "units": [
+            { "unit_no": 1, "title": "Introduction", "hours": 4 },
+            { "unit_no": 2, "title": "E-commerce Business Model", "hours": 8 },
+            { "unit_no": 3, "title": "Electronic Payment System", "hours": 9 },
+            { "unit_no": 4, "title": "Building E-commerce System", "hours": 5 },
+            { "unit_no": 5, "title": "Security in E-Commerce", "hours": 7 },
+            { "unit_no": 6, "title": "Digital Marketing", "hours": 7 },
+            {
+              "unit_no": 7,
+              "title": "Optimizing E-commerce Systems",
+              "hours": 5
+            }
+          ]
+        },
+        {
+          "code": "CSC382",
+          "title": "Automation and Robotics",
+          "semester": 6,
+          "category": "Elective II",
+          "credit_hours": 3,
+          "nature": "Theory + Lab",
+          "full_marks": 100,
+          "pass_marks": 40,
+          "evaluation": {
+            "theory_final": 60,
+            "theory_internal": 20,
+            "practical_internal": 20
+          },
+          "units": [
+            { "unit_no": 1, "title": "Introduction", "hours": 8 },
+            { "unit_no": 2, "title": "Power Sources and Sensors", "hours": 8 },
+            {
+              "unit_no": 3,
+              "title": "Manipulators, Actuators, and Grippers",
+              "hours": 8
+            },
+            {
+              "unit_no": 4,
+              "title": "Kinematics and Path Planning",
+              "hours": 8
+            },
+            { "unit_no": 5, "title": "Process Control", "hours": 8 },
+            { "unit_no": 6, "title": "Case Studies", "hours": 5 }
+          ]
+        },
+        {
+          "code": "CSC383",
+          "title": "Neural Networks",
+          "semester": 6,
+          "category": "Elective II",
+          "credit_hours": 3,
+          "nature": "Theory + Lab",
+          "full_marks": 100,
+          "pass_marks": 40,
+          "evaluation": {
+            "theory_final": 60,
+            "theory_internal": 20,
+            "practical_internal": 20
+          },
+          "units": [
+            {
+              "unit_no": 1,
+              "title": "Introduction to Neural Network",
+              "hours": 4
+            },
+            { "unit_no": 2, "title": "Rosenblatt's Perceptron", "hours": 3 },
+            {
+              "unit_no": 3,
+              "title": "Model Building through Regression",
+              "hours": 5
+            },
+            {
+              "unit_no": 4,
+              "title": "The Least-Mean-Square Algorithm",
+              "hours": 5
+            },
+            { "unit_no": 5, "title": "Multilayer Perceptron", "hours": 8 },
+            {
+              "unit_no": 6,
+              "title": "Kernel Methods and Radial-Basis Function Networks",
+              "hours": 7
+            },
+            { "unit_no": 7, "title": "Self-Organizing Maps", "hours": 6 },
+            {
+              "unit_no": 8,
+              "title": "Dynamic Driven Recurrent Networks",
+              "hours": 7
+            }
+          ]
+        },
+        {
+          "code": "CSC384",
+          "title": "Computer Hardware Design",
+          "semester": 6,
+          "category": "Elective II",
+          "credit_hours": 3,
+          "nature": "Theory + Lab",
+          "full_marks": 100,
+          "pass_marks": 40,
+          "evaluation": {
+            "theory_final": 60,
+            "theory_internal": 20,
+            "practical_internal": 20
+          },
+          "units": [
+            {
+              "unit_no": 1,
+              "title": "Computer Abstractions and Technology",
+              "hours": 3
+            },
+            {
+              "unit_no": 2,
+              "title": "Instructions: Language of the Computer",
+              "hours": 8
+            },
+            { "unit_no": 3, "title": "Arithmetic for Computers", "hours": 5 },
+            { "unit_no": 4, "title": "The Processor", "hours": 8 },
+            {
+              "unit_no": 5,
+              "title": "Large and Fast: Exploiting Memory Hierarchy",
+              "hours": 8
+            },
+            {
+              "unit_no": 6,
+              "title": "Storage and Other I/O Topics",
+              "hours": 5
+            },
+            {
+              "unit_no": 7,
+              "title": "Multicores, Multiprocessors, and Clusters",
+              "hours": 8
+            }
+          ]
+        },
+        {
+          "code": "CSC385",
+          "title": "Cognitive Science",
+          "semester": 6,
+          "category": "Elective II",
+          "credit_hours": 3,
+          "nature": "Theory + Lab",
+          "full_marks": 100,
+          "pass_marks": 40,
+          "evaluation": {
+            "theory_final": 60,
+            "theory_internal": 20,
+            "practical_internal": 20
+          },
+          "units": [
+            { "unit_no": 1, "title": "Introduction", "hours": 7 },
+            {
+              "unit_no": 2,
+              "title": "Precursors of Cognitive Science",
+              "hours": 5
+            },
+            {
+              "unit_no": 3,
+              "title": "Psychological Perspective of Cognition",
+              "hours": 5
+            },
+            {
+              "unit_no": 4,
+              "title": "Physical Symbol System and Language of Thought",
+              "hours": 7
+            },
+            { "unit_no": 5, "title": "Cognitive System", "hours": 4 },
+            { "unit_no": 6, "title": "Brain Mapping", "hours": 6 },
+            { "unit_no": 7, "title": "Mind Reading", "hours": 5 },
+            {
+              "unit_no": 8,
+              "title": "Neural Networks and Distributed Information Processing",
+              "hours": 6
+            }
+          ]
+        },
+        {
+          "code": "CSC409",
+          "title": "Advanced Java Programming",
+          "semester": 7,
+          "category": "Core",
+          "credit_hours": 3,
+          "nature": "Theory + Lab",
+          "full_marks": 100,
+          "pass_marks": 40,
+          "evaluation": {
+            "theory_final": 60,
+            "theory_internal": 20,
+            "practical_internal": 20
+          },
+          "units": [
+            { "unit_no": 1, "title": "Programming in Java", "hours": 8 },
+            {
+              "unit_no": 2,
+              "title": "User Interface Components with Swing",
+              "hours": 10
+            },
+            { "unit_no": 3, "title": "Event Handling", "hours": 4 },
+            { "unit_no": 4, "title": "Database Connectivity", "hours": 4 },
+            { "unit_no": 5, "title": "Network Programming", "hours": 5 },
+            { "unit_no": 6, "title": "GUI with JavaFX", "hours": 3 },
+            {
+              "unit_no": 7,
+              "title": "Servlets and Java Server Pages",
+              "hours": 8
+            },
+            { "unit_no": 8, "title": "RMI and CORBA", "hours": 3 }
+          ]
+        },
+        {
+          "code": "CSC410",
+          "title": "Data Warehousing and Data Mining",
+          "semester": 7,
+          "category": "Core",
+          "credit_hours": 3,
+          "nature": "Theory + Lab",
+          "full_marks": 100,
+          "pass_marks": 40,
+          "evaluation": {
+            "theory_final": 60,
+            "theory_internal": 20,
+            "practical_internal": 20
+          },
+          "units": [
+            {
+              "unit_no": 1,
+              "title": "Introduction to Data Warehousing",
+              "hours": 5
+            },
+            {
+              "unit_no": 2,
+              "title": "Introduction to Data Mining",
+              "hours": 2
+            },
+            { "unit_no": 3, "title": "Data Preprocessing", "hours": 3 },
+            { "unit_no": 4, "title": "Data Cube Technology", "hours": 4 },
+            { "unit_no": 5, "title": "Mining Frequent Patterns", "hours": 6 },
+            {
+              "unit_no": 6,
+              "title": "Classification and Prediction",
+              "hours": 10
+            },
+            { "unit_no": 7, "title": "Cluster Analysis", "hours": 8 },
+            {
+              "unit_no": 8,
+              "title": "Graph Mining and Social Network Analysis",
+              "hours": 5
+            },
+            {
+              "unit_no": 9,
+              "title": "Mining Spatial, Multimedia, Text and Web Data",
+              "hours": 2
+            }
+          ]
+        },
+        {
+          "code": "MGT411",
+          "title": "Principles of Management",
+          "semester": 7,
+          "category": "Core",
+          "credit_hours": 3,
+          "nature": "Theory",
+          "full_marks": 100,
+          "pass_marks": 40,
+          "evaluation": {
+            "theory_final": 80,
+            "theory_internal": 20,
+            "practical_internal": 0
+          },
+          "units": [
+            {
+              "unit_no": 1,
+              "title": "The Nature of Organizations",
+              "hours": 3
+            },
+            { "unit_no": 2, "title": "Introduction to Management", "hours": 3 },
+            {
+              "unit_no": 3,
+              "title": "Evolution of Management Thought",
+              "hours": 5
+            },
+            {
+              "unit_no": 4,
+              "title": "Environmental Context of Management",
+              "hours": 5
+            },
+            {
+              "unit_no": 5,
+              "title": "Planning and Decision Making",
+              "hours": 5
+            },
+            { "unit_no": 6, "title": "Organizing Function", "hours": 6 },
+            { "unit_no": 7, "title": "Leadership & Conflict", "hours": 3 },
+            { "unit_no": 8, "title": "Motivation", "hours": 3 },
+            { "unit_no": 9, "title": "Communication", "hours": 3 },
+            {
+              "unit_no": 10,
+              "title": "Control and Quality Management",
+              "hours": 3
+            },
+            {
+              "unit_no": 11,
+              "title": "Global Context of Management",
+              "hours": 3
+            },
+            {
+              "unit_no": 12,
+              "title": "Management Trends and Scenario in Nepal",
+              "hours": 3
+            }
+          ]
+        },
+        {
+          "code": "CSC412",
+          "title": "Project Work",
+          "semester": 7,
+          "category": "Core",
+          "credit_hours": 3,
+          "nature": "Project",
+          "full_marks": 100,
+          "pass_marks": 40,
+          "evaluation": {
+            "theory_final": 0,
+            "theory_internal": 0,
+            "practical_internal": 100
+          },
+          "units": [
+            {
+              "unit_no": 1,
+              "title": "Proposal Submission and Defense",
+              "hours": 10
+            },
+            {
+              "unit_no": 2,
+              "title": "System Analysis and Requirements",
+              "hours": 15
+            },
+            {
+              "unit_no": 3,
+              "title": "System Design and Architecture",
+              "hours": 15
+            },
+            {
+              "unit_no": 4,
+              "title": "Implementation and Testing",
+              "hours": 30
+            },
+            {
+              "unit_no": 5,
+              "title": "Final Documentation and Defense",
+              "hours": 10
+            }
+          ]
+        },
+        {
+          "code": "CSC413",
+          "title": "Information Retrieval",
+          "semester": 7,
+          "category": "Elective III",
+          "credit_hours": 3,
+          "nature": "Theory + Lab",
+          "full_marks": 100,
+          "pass_marks": 40,
+          "evaluation": {
+            "theory_final": 60,
+            "theory_internal": 20,
+            "practical_internal": 20
+          },
+          "units": [
+            {
+              "unit_no": 1,
+              "title": "Introduction to IR and Web Search",
+              "hours": 2
+            },
+            {
+              "unit_no": 2,
+              "title": "Text Properties, Operations and Preprocessing",
+              "hours": 5
+            },
+            { "unit_no": 3, "title": "Basic IR Models", "hours": 5 },
+            { "unit_no": 4, "title": "Evaluation of IR", "hours": 2 },
+            {
+              "unit_no": 5,
+              "title": "Query Operations and Languages",
+              "hours": 4
+            },
+            { "unit_no": 6, "title": "Web Search", "hours": 6 },
+            { "unit_no": 7, "title": "Text Categorization", "hours": 4 },
+            { "unit_no": 8, "title": "Text Clustering", "hours": 4 },
+            { "unit_no": 9, "title": "Recommender System", "hours": 3 },
+            { "unit_no": 10, "title": "Question Answering", "hours": 5 },
+            { "unit_no": 11, "title": "Advanced IR Models", "hours": 5 }
+          ]
+        },
+        {
+          "code": "CSC414",
+          "title": "Database Administration",
+          "semester": 7,
+          "category": "Elective III",
+          "credit_hours": 3,
+          "nature": "Theory + Lab",
+          "full_marks": 100,
+          "pass_marks": 40,
+          "evaluation": {
+            "theory_final": 60,
+            "theory_internal": 20,
+            "practical_internal": 20
+          },
+          "units": [
+            { "unit_no": 1, "title": "Introduction", "hours": 5 },
+            {
+              "unit_no": 2,
+              "title": "Tablespace and Storage Management",
+              "hours": 5
+            },
+            { "unit_no": 3, "title": "Managing Database Objects", "hours": 8 },
+            {
+              "unit_no": 4,
+              "title": "Database Backup, Restore, and Recovery",
+              "hours": 10
+            },
+            {
+              "unit_no": 5,
+              "title": "Database Security and Auditing",
+              "hours": 7
+            },
+            {
+              "unit_no": 6,
+              "title": "Multitenant Database Architecture",
+              "hours": 5
+            },
+            { "unit_no": 7, "title": "Database Tuning", "hours": 5 }
+          ]
+        },
+        {
+          "code": "CSC415",
+          "title": "Software Project Management",
+          "semester": 7,
+          "category": "Elective III",
+          "credit_hours": 3,
+          "nature": "Theory + Lab",
+          "full_marks": 100,
+          "pass_marks": 40,
+          "evaluation": {
+            "theory_final": 60,
+            "theory_internal": 20,
+            "practical_internal": 20
+          },
+          "units": [
+            {
+              "unit_no": 1,
+              "title": "Introduction to Software Project Management",
+              "hours": 5
+            },
+            { "unit_no": 2, "title": "Project Analysis", "hours": 8 },
+            {
+              "unit_no": 3,
+              "title": "Activity Planning and Scheduling",
+              "hours": 7
+            },
+            { "unit_no": 4, "title": "Risk Management", "hours": 4 },
+            { "unit_no": 5, "title": "Resource Allocation", "hours": 4 },
+            { "unit_no": 6, "title": "Monitoring and Control", "hours": 4 },
+            {
+              "unit_no": 7,
+              "title": "Managing Contracts and People",
+              "hours": 5
+            },
+            {
+              "unit_no": 8,
+              "title": "Software Quality Assurance and Testing",
+              "hours": 5
+            },
+            {
+              "unit_no": 9,
+              "title": "Software Configuration Management",
+              "hours": 3
+            }
+          ]
+        },
+        {
+          "code": "CSC416",
+          "title": "Network Security",
+          "semester": 7,
+          "category": "Elective III",
+          "credit_hours": 3,
+          "nature": "Theory + Lab",
+          "full_marks": 100,
+          "pass_marks": 40,
+          "evaluation": {
+            "theory_final": 60,
+            "theory_internal": 20,
+            "practical_internal": 20
+          },
+          "units": [
+            {
+              "unit_no": 1,
+              "title": "Computer Network Security Fundamentals",
+              "hours": 3
+            },
+            { "unit_no": 2, "title": "User Authentication", "hours": 4 },
+            { "unit_no": 3, "title": "Transport Level Security", "hours": 6 },
+            { "unit_no": 4, "title": "Wireless Network Security", "hours": 6 },
+            { "unit_no": 5, "title": "Electronic Mail Security", "hours": 8 },
+            { "unit_no": 6, "title": "IP Security", "hours": 6 },
+            { "unit_no": 7, "title": "Network Endpoint Security", "hours": 5 },
+            {
+              "unit_no": 8,
+              "title": "Cloud and Internet of Things (IoT) Security",
+              "hours": 7
+            }
+          ]
+        },
+        {
+          "code": "CSC417",
+          "title": "Digital System Design",
+          "semester": 7,
+          "category": "Elective III",
+          "credit_hours": 3,
+          "nature": "Theory + Lab",
+          "full_marks": 100,
+          "pass_marks": 40,
+          "evaluation": {
+            "theory_final": 60,
+            "theory_internal": 20,
+            "practical_internal": 20
+          },
+          "units": [
+            {
+              "unit_no": 1,
+              "title": "Introduction of Logic Design and Digital ICs",
+              "hours": 5
+            },
+            {
+              "unit_no": 2,
+              "title": "Review of Boolean Algebra and Combinational Logic",
+              "hours": 4
+            },
+            {
+              "unit_no": 3,
+              "title": "Combinational Network Design & K-Maps",
+              "hours": 5
+            },
+            {
+              "unit_no": 4,
+              "title": "Quine-McCluskey Method and PLDs",
+              "hours": 7
+            },
+            { "unit_no": 5, "title": "Sequential Networks", "hours": 8 },
+            {
+              "unit_no": 6,
+              "title": "Sequential Networks as Finite State Machines",
+              "hours": 6
+            },
+            {
+              "unit_no": 7,
+              "title": "Field Programmable Gate Arrays (FPGA) and VHDL",
+              "hours": 4
+            },
+            { "unit_no": 8, "title": "Testing and Verification", "hours": 6 }
+          ]
+        },
+        {
+          "code": "MGT418",
+          "title": "International Marketing",
+          "semester": 7,
+          "category": "Elective III",
+          "credit_hours": 3,
+          "nature": "Theory",
+          "full_marks": 100,
+          "pass_marks": 40,
+          "evaluation": {
+            "theory_final": 80,
+            "theory_internal": 20,
+            "practical_internal": 0
+          },
+          "units": [
+            { "unit_no": 1, "title": "Introduction", "hours": 6 },
+            {
+              "unit_no": 2,
+              "title": "International Marketing Environment",
+              "hours": 10
+            },
+            {
+              "unit_no": 3,
+              "title": "International Marketing Research & Global MIS",
+              "hours": 8
+            },
+            {
+              "unit_no": 4,
+              "title": "International Marketing Management",
+              "hours": 11
+            },
+            {
+              "unit_no": 5,
+              "title": "Nepal's International Trade",
+              "hours": 10
+            }
+          ]
+        },
+        {
+          "code": "CSC475",
+          "title": "Advanced Database",
+          "semester": 8,
+          "category": "Core",
+          "credit_hours": 3,
+          "nature": "Theory + Lab",
+          "full_marks": 100,
+          "pass_marks": 40,
+          "evaluation": {
+            "theory_final": 60,
+            "theory_internal": 20,
+            "practical_internal": 20
+          },
+          "units": [
+            {
+              "unit_no": 1,
+              "title": "Enhanced Entity Relationship Model and Relational Model",
+              "hours": 8
+            },
+            {
+              "unit_no": 2,
+              "title": "Object and Object Relational Databases",
+              "hours": 10
+            },
+            {
+              "unit_no": 3,
+              "title": "Query Processing and Optimization",
+              "hours": 7
+            },
+            {
+              "unit_no": 4,
+              "title": "Distributed Databases, NOSQL Systems, and BigData",
+              "hours": 12
+            },
+            {
+              "unit_no": 5,
+              "title": "Advanced Database Models, Systems, and Applications",
+              "hours": 8
+            }
+          ]
+        },
+        {
+          "code": "CSC476",
+          "title": "Internship",
+          "semester": 8,
+          "category": "Core",
+          "credit_hours": 6,
+          "nature": "Internship",
+          "full_marks": 200,
+          "pass_marks": 80,
+          "evaluation": {
+            "theory_final": 0,
+            "theory_internal": 0,
+            "practical_internal": 200
+          },
+          "units": [
+            {
+              "unit_no": 1,
+              "title": "Proposal Submission and Planning",
+              "hours": 20
+            },
+            {
+              "unit_no": 2,
+              "title": "Industrial Placement & Technical Activities (Min 180 hrs / 10 wks)",
+              "hours": 180
+            },
+            { "unit_no": 3, "title": "Midterm Progress Review", "hours": 10 },
+            {
+              "unit_no": 4,
+              "title": "Final Report Documentation and Defense",
+              "hours": 10
+            }
+          ]
+        },
+        {
+          "code": "CSC477",
+          "title": "Advanced Networking with IPv6",
+          "semester": 8,
+          "category": "Elective IV/V",
+          "credit_hours": 3,
+          "nature": "Theory + Lab",
+          "full_marks": 100,
+          "pass_marks": 40,
+          "evaluation": {
+            "theory_final": 60,
+            "theory_internal": 20,
+            "practical_internal": 20
+          },
+          "units": [
+            { "unit_no": 1, "title": "Introduction to Networking", "hours": 6 },
+            { "unit_no": 2, "title": "IP Next Generation", "hours": 8 },
+            {
+              "unit_no": 3,
+              "title": "ICMPv6 and Neighbor Discovery",
+              "hours": 6
+            },
+            {
+              "unit_no": 4,
+              "title": "Security and Quality of Service in IPv6",
+              "hours": 4
+            },
+            { "unit_no": 5, "title": "IPv6 Routing", "hours": 5 },
+            {
+              "unit_no": 6,
+              "title": "IPv4/IPv6 Transition Mechanisms",
+              "hours": 8
+            },
+            { "unit_no": 7, "title": "Future Networking", "hours": 8 }
+          ]
+        },
+        {
+          "code": "CSC478",
+          "title": "Distributed Networking",
+          "semester": 8,
+          "category": "Elective IV/V",
+          "credit_hours": 3,
+          "nature": "Theory + Lab",
+          "full_marks": 100,
+          "pass_marks": 40,
+          "evaluation": {
+            "theory_final": 60,
+            "theory_internal": 20,
+            "practical_internal": 20
+          },
+          "units": [
+            {
+              "unit_no": 1,
+              "title": "Overview of Distributed Systems",
+              "hours": 4
+            },
+            { "unit_no": 2, "title": "Client Server Model", "hours": 8 },
+            { "unit_no": 3, "title": "Communication Paradigm", "hours": 6 },
+            { "unit_no": 4, "title": "Internetworking", "hours": 5 },
+            {
+              "unit_no": 5,
+              "title": "Interprocess Communication Using Message Passing",
+              "hours": 5
+            },
+            {
+              "unit_no": 6,
+              "title": "Reliability and Replication Techniques",
+              "hours": 7
+            },
+            { "unit_no": 7, "title": "Security", "hours": 6 },
+            {
+              "unit_no": 8,
+              "title": "Current Developments in Distributed Network System",
+              "hours": 4
+            }
+          ]
+        },
+        {
+          "code": "CSC479",
+          "title": "Game Technology",
+          "semester": 8,
+          "category": "Elective IV/V",
+          "credit_hours": 3,
+          "nature": "Theory + Lab",
+          "full_marks": 100,
+          "pass_marks": 40,
+          "evaluation": {
+            "theory_final": 60,
+            "theory_internal": 20,
+            "practical_internal": 20
+          },
+          "units": [
+            { "unit_no": 1, "title": "Game Design Basics", "hours": 12 },
+            { "unit_no": 2, "title": "Designing a Game", "hours": 25 },
+            { "unit_no": 3, "title": "Working as a Game Designer", "hours": 8 }
+          ]
+        },
+        {
+          "code": "CSC480",
+          "title": "Distributed and Object Oriented Database",
+          "semester": 8,
+          "category": "Elective IV/V",
+          "credit_hours": 3,
+          "nature": "Theory + Lab",
+          "full_marks": 100,
+          "pass_marks": 40,
+          "evaluation": {
+            "theory_final": 60,
+            "theory_internal": 20,
+            "practical_internal": 20
+          },
+          "units": [
+            {
+              "unit_no": 1,
+              "title": "Introduction to Distributed Database",
+              "hours": 4
+            },
+            {
+              "unit_no": 2,
+              "title": "Distributed Database Design and Access Control",
+              "hours": 4
+            },
+            {
+              "unit_no": 3,
+              "title": "Query Processing, Decomposition, and Localization",
+              "hours": 6
+            },
+            {
+              "unit_no": 4,
+              "title": "Distributed Concurrency Control",
+              "hours": 8
+            },
+            {
+              "unit_no": 5,
+              "title": "Object Oriented Database Concepts",
+              "hours": 6
+            },
+            { "unit_no": 6, "title": "OODBMS Languages and Design", "hours": 6 }
+          ]
+        },
+        {
+          "code": "CSC481",
+          "title": "Introduction to Cloud Computing",
+          "semester": 8,
+          "category": "Elective IV/V",
+          "credit_hours": 3,
+          "nature": "Theory + Lab",
+          "full_marks": 100,
+          "pass_marks": 40,
+          "evaluation": {
+            "theory_final": 60,
+            "theory_internal": 20,
+            "practical_internal": 20
+          },
+          "units": [
+            {
+              "unit_no": 1,
+              "title": "Introduction to Cloud Computing",
+              "hours": 6
+            },
+            {
+              "unit_no": 2,
+              "title": "Cloud Computing Architecture",
+              "hours": 6
+            },
+            {
+              "unit_no": 3,
+              "title": "Cloud Virtualization Technology",
+              "hours": 10
+            },
+            { "unit_no": 4, "title": "Cloud Programming Models", "hours": 12 },
+            { "unit_no": 5, "title": "Cloud Security", "hours": 6 },
+            {
+              "unit_no": 6,
+              "title": "Cloud Platforms and Applications",
+              "hours": 12
+            }
+          ]
+        },
+        {
+          "code": "CSC482",
+          "title": "Geographical Information System",
+          "semester": 8,
+          "category": "Elective IV/V",
+          "credit_hours": 3,
+          "nature": "Theory + Lab",
+          "full_marks": 100,
+          "pass_marks": 40,
+          "evaluation": {
+            "theory_final": 60,
+            "theory_internal": 20,
+            "practical_internal": 20
+          },
+          "units": [
+            {
+              "unit_no": 1,
+              "title": "Introduction to Geographic Information System (GIS)",
+              "hours": 5
+            },
+            {
+              "unit_no": 2,
+              "title": "Digital Mapping Concepts and Visualization",
+              "hours": 5
+            },
+            {
+              "unit_no": 3,
+              "title": "Spatial Data Structure and Database Design",
+              "hours": 6
+            },
+            {
+              "unit_no": 4,
+              "title": "Data Acquisition, Data Quality and Management",
+              "hours": 9
+            },
+            { "unit_no": 5, "title": "Spatial Analysis", "hours": 10 },
+            {
+              "unit_no": 6,
+              "title": "Introduction to Spatial Data Infrastructure",
+              "hours": 3
+            },
+            { "unit_no": 7, "title": "Open GIS", "hours": 7 }
+          ]
+        },
+        {
+          "code": "CSC483",
+          "title": "Decision Support System and Expert System",
+          "semester": 8,
+          "category": "Elective IV/V",
+          "credit_hours": 3,
+          "nature": "Theory + Lab",
+          "full_marks": 100,
+          "pass_marks": 40,
+          "evaluation": {
+            "theory_final": 60,
+            "theory_internal": 20,
+            "practical_internal": 20
+          },
+          "units": [
+            { "unit_no": 1, "title": "Business Decision Making", "hours": 10 },
+            {
+              "unit_no": 2,
+              "title": "Designing, Developing, and Evaluating DSS Systems",
+              "hours": 10
+            },
+            { "unit_no": 3, "title": "Building DSS Systems", "hours": 10 },
+            { "unit_no": 4, "title": "Expert Systems", "hours": 8 },
+            { "unit_no": 5, "title": "Fuzzy Expert Systems", "hours": 7 }
+          ]
+        },
+        {
+          "code": "CSC484",
+          "title": "Mobile Application Development",
+          "semester": 8,
+          "category": "Elective IV/V",
+          "credit_hours": 3,
+          "nature": "Theory + Lab",
+          "full_marks": 100,
+          "pass_marks": 40,
+          "evaluation": {
+            "theory_final": 60,
+            "theory_internal": 20,
+            "practical_internal": 20
+          },
+          "units": [
+            {
+              "unit_no": 1,
+              "title": "Introduction to Mobile Computing",
+              "hours": 5
+            },
+            {
+              "unit_no": 2,
+              "title": "Architecture, Design and Mobile Development Frameworks",
+              "hours": 10
+            },
+            { "unit_no": 3, "title": "User Interfaces", "hours": 10 },
+            {
+              "unit_no": 4,
+              "title": "Testing and Publishing Apps",
+              "hours": 5
+            },
+            {
+              "unit_no": 5,
+              "title": "Mobile Agent and Peer-to-Peer Architectures for Mobile Applications",
+              "hours": 3
+            },
+            {
+              "unit_no": 6,
+              "title": "Wireless Connectivity and Mobile Applications",
+              "hours": 3
+            },
+            {
+              "unit_no": 7,
+              "title": "Synchronization and Replication of Mobile Data",
+              "hours": 3
+            },
+            { "unit_no": 8, "title": "Location and Sensing", "hours": 4 },
+            { "unit_no": 9, "title": "Active Transactions", "hours": 2 }
+          ]
+        },
+        {
+          "code": "CSC485",
+          "title": "Real Time Systems",
+          "semester": 8,
+          "category": "Elective IV/V",
+          "credit_hours": 3,
+          "nature": "Theory + Lab",
+          "full_marks": 100,
+          "pass_marks": 40,
+          "evaluation": {
+            "theory_final": 60,
+            "theory_internal": 20,
+            "practical_internal": 20
+          },
+          "units": [
+            { "unit_no": 1, "title": "Introduction", "hours": 4 },
+            {
+              "unit_no": 2,
+              "title": "Reference Model of Real Time System",
+              "hours": 4
+            },
+            { "unit_no": 3, "title": "Periodic Task Scheduling", "hours": 7 },
+            { "unit_no": 4, "title": "Aperiodic Task Scheduling", "hours": 7 },
+            {
+              "unit_no": 5,
+              "title": "Real-Time Memory Management",
+              "hours": 5
+            },
+            {
+              "unit_no": 6,
+              "title": "Resources and Resource Access Control",
+              "hours": 5
+            },
+            {
+              "unit_no": 7,
+              "title": "Performance Analysis and Optimization of Real-Time Systems",
+              "hours": 6
+            },
+            { "unit_no": 8, "title": "Real Time Communication", "hours": 7 }
+          ]
+        },
+        {
+          "code": "CSC486",
+          "title": "Network and System Administration",
+          "semester": 8,
+          "category": "Elective IV/V",
+          "credit_hours": 3,
+          "nature": "Theory + Lab",
+          "full_marks": 100,
+          "pass_marks": 40,
+          "evaluation": {
+            "theory_final": 60,
+            "theory_internal": 20,
+            "practical_internal": 20
+          },
+          "units": [
+            { "unit_no": 1, "title": "Networking Overview", "hours": 4 },
+            {
+              "unit_no": 2,
+              "title": "Server Administration Basics",
+              "hours": 8
+            },
+            {
+              "unit_no": 3,
+              "title": "Network Configuration Basics",
+              "hours": 7
+            },
+            {
+              "unit_no": 4,
+              "title": "Dynamic Host Configuration Protocol (DHCP)",
+              "hours": 3
+            },
+            {
+              "unit_no": 5,
+              "title": "Name Server and Configuration",
+              "hours": 7
+            },
+            {
+              "unit_no": 6,
+              "title": "Web and Proxy Server Configuration",
+              "hours": 7
+            },
+            {
+              "unit_no": 7,
+              "title": "FTP, File, and Print Server",
+              "hours": 4
+            },
+            { "unit_no": 8, "title": "Mail Server Basics", "hours": 5 }
+          ]
+        },
+        {
+          "code": "CSC487",
+          "title": "Embedded Systems Programming",
+          "semester": 8,
+          "category": "Elective IV/V",
+          "credit_hours": 3,
+          "nature": "Theory + Lab",
+          "full_marks": 100,
+          "pass_marks": 40,
+          "evaluation": {
+            "theory_final": 60,
+            "theory_internal": 20,
+            "practical_internal": 20
+          },
+          "units": [
+            { "unit_no": 1, "title": "ARM Embedded System", "hours": 4 },
+            { "unit_no": 2, "title": "ARM Processor Fundamentals", "hours": 4 },
+            {
+              "unit_no": 3,
+              "title": "Introduction to ARM Instruction Set",
+              "hours": 8
+            },
+            { "unit_no": 4, "title": "Thumb Instruction Set", "hours": 8 },
+            {
+              "unit_no": 5,
+              "title": "Efficient C Programming for ARM",
+              "hours": 8
+            },
+            {
+              "unit_no": 6,
+              "title": "Writing and Optimizing ARM Assembly Code",
+              "hours": 8
+            },
+            { "unit_no": 7, "title": "Firmware and Embedded OS", "hours": 5 }
+          ]
+        },
+        {
+          "code": "MGT488",
+          "title": "International Business Management",
+          "semester": 8,
+          "category": "Elective IV/V",
+          "credit_hours": 3,
+          "nature": "Theory",
+          "full_marks": 100,
+          "pass_marks": 40,
+          "evaluation": {
+            "theory_final": 80,
+            "theory_internal": 20,
+            "practical_internal": 0
+          },
+          "units": [
+            {
+              "unit_no": 1,
+              "title": "Globalization and International Business",
+              "hours": 8
+            },
+            {
+              "unit_no": 2,
+              "title": "Global Economy and Regional Economy",
+              "hours": 6
+            },
+            {
+              "unit_no": 3,
+              "title": "National Differences in Socio-cultural Environment",
+              "hours": 3
+            },
+            {
+              "unit_no": 4,
+              "title": "National Differences in Political Environment",
+              "hours": 3
+            },
+            {
+              "unit_no": 5,
+              "title": "National Differences in Economic Environment",
+              "hours": 3
+            },
+            {
+              "unit_no": 6,
+              "title": "International Financial Environment",
+              "hours": 8
+            },
+            { "unit_no": 7, "title": "Strategies for IB", "hours": 6 },
+            {
+              "unit_no": 8,
+              "title": "Functional Management and Operation of IB",
+              "hours": 8
+            }
+          ]
+        }
+      ]
+    },
+    "BIT": {
+      "curriculum": {
+        "university": "Tribhuvan University",
+        "faculty": "Institute of Science and Technology (IOST)",
+        "program": "Bachelors in Information Technology (BIT)",
+        "effective_year": "2075 (2018)",
+        "total_credits": 120,
+        "total_semesters": 8,
+        "available_semesters_in_dataset": [1, 2, 3, 4, 5, 6, 7, 8]
+      },
+      "semesters": [
+        {
+          "semester": 1,
+          "credits": 15,
+          "total_marks": 500,
+          "core_count": 5,
+          "elective_count": 0
+        },
+        {
+          "semester": 2,
+          "credits": 15,
+          "total_marks": 500,
+          "core_count": 5,
+          "elective_count": 0
+        },
+        {
+          "semester": 3,
+          "credits": 15,
+          "total_marks": 500,
+          "core_count": 5,
+          "elective_count": 0
+        },
+        {
+          "semester": 4,
+          "credits": 15,
+          "total_marks": 500,
+          "core_count": 5,
+          "elective_count": 0
+        },
+        {
+          "semester": 5,
+          "credits": 15,
+          "total_marks": 500,
+          "core_count": 5,
+          "elective_count": 0
+        },
+        {
+          "semester": 6,
+          "credits": 15,
+          "total_marks": 500,
+          "core_count": 4,
+          "elective_count": 1
+        },
+        {
+          "semester": 7,
+          "credits": 15,
+          "total_marks": 500,
+          "core_count": 4,
+          "elective_count": 1
+        },
+        {
+          "semester": 8,
+          "credits": 15,
+          "total_marks": 500,
+          "core_count": 2,
+          "elective_count": 2
+        }
+      ],
+      "courses": [
+        {
+          "code": "BIT101",
+          "title": "Introduction to Information Technology",
+          "semester": 1,
+          "category": "Core",
+          "credit_hours": 3,
+          "nature": "Theory + Lab",
+          "full_marks": 100,
+          "pass_marks": 40,
+          "evaluation": {
+            "theory_final": 60,
+            "theory_internal": 20,
+            "practical_internal": 20
+          },
+          "units": [
+            { "unit_no": 1, "title": "Introduction to Computer", "hours": 4 },
+            { "unit_no": 2, "title": "Computer Hardware", "hours": 8 },
+            { "unit_no": 3, "title": "Computer Software", "hours": 6 },
+            { "unit_no": 4, "title": "Data Representation", "hours": 5 },
+            {
+              "unit_no": 5,
+              "title": "Computer Networks and Internet Services",
+              "hours": 10
+            },
+            { "unit_no": 6, "title": "Database Systems", "hours": 5 },
+            { "unit_no": 7, "title": "Computer Security", "hours": 4 },
+            {
+              "unit_no": 8,
+              "title": "Application and Impact of IT",
+              "hours": 3
+            }
+          ]
+        },
+        {
+          "code": "BIT102",
+          "title": "C Programming",
+          "semester": 1,
+          "category": "Core",
+          "credit_hours": 3,
+          "nature": "Theory + Lab",
+          "full_marks": 100,
+          "pass_marks": 40,
+          "evaluation": {
+            "theory_final": 60,
+            "theory_internal": 20,
+            "practical_internal": 20
+          },
+          "units": [
+            { "unit_no": 1, "title": "Introduction", "hours": 3 },
+            { "unit_no": 2, "title": "Elements of C", "hours": 3 },
+            { "unit_no": 3, "title": "Input/output Function", "hours": 2 },
+            { "unit_no": 4, "title": "Operators and Expression", "hours": 4 },
+            { "unit_no": 5, "title": "Control Structures", "hours": 8 },
+            { "unit_no": 6, "title": "Arrays and Strings", "hours": 5 },
+            { "unit_no": 7, "title": "Functions", "hours": 6 },
+            { "unit_no": 8, "title": "The C Preprocessor", "hours": 2 },
+            { "unit_no": 9, "title": "Pointers", "hours": 5 },
+            { "unit_no": 10, "title": "Structure and Unions", "hours": 5 },
+            { "unit_no": 11, "title": "File Handling", "hours": 2 }
+          ]
+        },
+        {
+          "code": "BIT103",
+          "title": "Digital Logic",
+          "semester": 1,
+          "category": "Core",
+          "credit_hours": 3,
+          "nature": "Theory + Lab",
+          "full_marks": 100,
+          "pass_marks": 40,
+          "evaluation": {
+            "theory_final": 60,
+            "theory_internal": 20,
+            "practical_internal": 20
+          },
+          "units": [
+            {
+              "unit_no": 1,
+              "title": "Number Systems, Operations and Codes",
+              "hours": 6
+            },
+            {
+              "unit_no": 2,
+              "title": "Digital Design Fundamentals and Boolean Algebra",
+              "hours": 8
+            },
+            {
+              "unit_no": 3,
+              "title": "Simplification of Boolean Functions",
+              "hours": 5
+            },
+            { "unit_no": 4, "title": "Combinational Logic", "hours": 7 },
+            { "unit_no": 5, "title": "Sequential Logic", "hours": 4 },
+            {
+              "unit_no": 6,
+              "title": "Counters, Registers and Memory",
+              "hours": 9
+            },
+            { "unit_no": 7, "title": "Processor Logic Design", "hours": 6 }
+          ]
+        },
+        {
+          "code": "MTH104",
+          "title": "Basic Mathematics",
+          "semester": 1,
+          "category": "Core",
+          "credit_hours": 3,
+          "nature": "Theory",
+          "full_marks": 100,
+          "pass_marks": 40,
+          "evaluation": {
+            "theory_final": 60,
+            "theory_internal": 40,
+            "practical_internal": 0
+          },
+          "units": [
+            {
+              "unit_no": 1,
+              "title": "Functions Limits and Continuity",
+              "hours": 5
+            },
+            { "unit_no": 2, "title": "Limits and Continuity", "hours": 3 },
+            { "unit_no": 3, "title": "Differentiations", "hours": 5 },
+            {
+              "unit_no": 4,
+              "title": "Applications of Derivatives",
+              "hours": 5
+            },
+            { "unit_no": 5, "title": "Integration", "hours": 5 },
+            {
+              "unit_no": 6,
+              "title": "Applications of Definite Integrals",
+              "hours": 3
+            },
+            { "unit_no": 7, "title": "Techniques of Integrations", "hours": 5 },
+            {
+              "unit_no": 8,
+              "title": "First Order Differential Equations",
+              "hours": 4
+            },
+            {
+              "unit_no": 9,
+              "title": "Infinite Sequence and Series",
+              "hours": 5
+            },
+            { "unit_no": 10, "title": "Partial Derivatives", "hours": 5 }
+          ]
+        },
+        {
+          "code": "SCO105",
+          "title": "Sociology",
+          "semester": 1,
+          "category": "Core",
+          "credit_hours": 3,
+          "nature": "Theory",
+          "full_marks": 100,
+          "pass_marks": 40,
+          "evaluation": {
+            "theory_final": 60,
+            "theory_internal": 40,
+            "practical_internal": 0
+          },
+          "units": [
+            { "unit_no": 1, "title": "Introduction", "hours": 9 },
+            {
+              "unit_no": 2,
+              "title": "The Fundamentals of Society",
+              "hours": 9
+            },
+            { "unit_no": 3, "title": "The Social Structure", "hours": 12 },
+            {
+              "unit_no": 4,
+              "title": "Social Institutions and Processes",
+              "hours": 9
+            },
+            { "unit_no": 5, "title": "Social Change", "hours": 6 },
+            { "unit_no": 6, "title": "Application of Sociology", "hours": 3 }
+          ]
+        },
+        {
+          "code": "BIT151",
+          "title": "Microprocessor and Computer Architecture",
+          "semester": 2,
+          "category": "Core",
+          "credit_hours": 3,
+          "nature": "Theory + Lab",
+          "full_marks": 100,
+          "pass_marks": 40,
+          "evaluation": {
+            "theory_final": 60,
+            "theory_internal": 20,
+            "practical_internal": 20
+          },
+          "units": [
+            {
+              "unit_no": 1,
+              "title": "Introduction to Microprocessor",
+              "hours": 6
+            },
+            { "unit_no": 2, "title": "Intel 8085", "hours": 8 },
+            { "unit_no": 3, "title": "Microoperations", "hours": 3 },
+            {
+              "unit_no": 4,
+              "title": "Control Unit and Central Processing Unit",
+              "hours": 9
+            },
+            {
+              "unit_no": 5,
+              "title": "Fixed Point Computer Arithmetic",
+              "hours": 5
+            },
+            {
+              "unit_no": 6,
+              "title": "Input and Output Organization",
+              "hours": 5
+            },
+            { "unit_no": 7, "title": "Memory Organization", "hours": 5 },
+            { "unit_no": 8, "title": "Pipelining", "hours": 4 }
+          ]
+        },
+        {
+          "code": "BIT152",
+          "title": "Discrete Structure",
+          "semester": 2,
+          "category": "Core",
+          "credit_hours": 3,
+          "nature": "Theory + Lab",
+          "full_marks": 100,
+          "pass_marks": 40,
+          "evaluation": {
+            "theory_final": 60,
+            "theory_internal": 20,
+            "practical_internal": 20
+          },
+          "units": [
+            { "unit_no": 1, "title": "Logic and Proof Methods", "hours": 6 },
+            {
+              "unit_no": 2,
+              "title": "Sets, Relations and Functions",
+              "hours": 7
+            },
+            { "unit_no": 3, "title": "Induction and Recursion", "hours": 5 },
+            { "unit_no": 4, "title": "Number Theory", "hours": 6 },
+            {
+              "unit_no": 5,
+              "title": "Counting and Discrete Probability",
+              "hours": 9
+            },
+            { "unit_no": 6, "title": "Tree and Graphs", "hours": 11 }
+          ]
+        },
+        {
+          "code": "BIT153",
+          "title": "Object Oriented Programming",
+          "semester": 2,
+          "category": "Core",
+          "credit_hours": 3,
+          "nature": "Theory + Lab",
+          "full_marks": 100,
+          "pass_marks": 40,
+          "evaluation": {
+            "theory_final": 60,
+            "theory_internal": 20,
+            "practical_internal": 20
+          },
+          "units": [
+            {
+              "unit_no": 1,
+              "title": "Introduction to Object Oriented Programming",
+              "hours": 3
+            },
+            { "unit_no": 2, "title": "Basics of C++ Programming", "hours": 5 },
+            { "unit_no": 3, "title": "Class and Objects", "hours": 8 },
+            { "unit_no": 4, "title": "Operator Overloading", "hours": 7 },
+            { "unit_no": 5, "title": "Inheritance", "hours": 7 },
+            {
+              "unit_no": 6,
+              "title": "Virtual Function, Polymorphism, and Other C++ Features",
+              "hours": 5
+            },
+            {
+              "unit_no": 7,
+              "title": "Function Templates and Exception Handling",
+              "hours": 4
+            },
+            { "unit_no": 8, "title": "File and Streams", "hours": 6 }
+          ]
+        },
+        {
+          "code": "STA154",
+          "title": "Basic Statistics",
+          "semester": 2,
+          "category": "Core",
+          "credit_hours": 3,
+          "nature": "Theory + Lab",
+          "full_marks": 100,
+          "pass_marks": 40,
+          "evaluation": {
+            "theory_final": 60,
+            "theory_internal": 20,
+            "practical_internal": 20
+          },
+          "units": [
+            { "unit_no": 1, "title": "Introduction", "hours": 5 },
+            {
+              "unit_no": 2,
+              "title": "Diagrammatical and Graphical Presentation of Data",
+              "hours": 3
+            },
+            { "unit_no": 3, "title": "Descriptive Statistics", "hours": 7 },
+            {
+              "unit_no": 4,
+              "title": "Introduction to Probability",
+              "hours": 7
+            },
+            {
+              "unit_no": 5,
+              "title": "Random Variables and Mathematical Expectation",
+              "hours": 3
+            },
+            { "unit_no": 6, "title": "Probability Distributions", "hours": 6 },
+            {
+              "unit_no": 7,
+              "title": "Sampling and Sampling Distribution",
+              "hours": 7
+            },
+            {
+              "unit_no": 8,
+              "title": "Correlation and Linear Regression",
+              "hours": 7
+            }
+          ]
+        },
+        {
+          "code": "ECO155",
+          "title": "Economics",
+          "semester": 2,
+          "category": "Core",
+          "credit_hours": 3,
+          "nature": "Theory",
+          "full_marks": 100,
+          "pass_marks": 40,
+          "evaluation": {
+            "theory_final": 60,
+            "theory_internal": 40,
+            "practical_internal": 0
+          },
+          "units": [
+            {
+              "unit_no": 1,
+              "title": "Economic Issues and Concepts",
+              "hours": 4
+            },
+            { "unit_no": 2, "title": "Demand, Supply and Price", "hours": 10 },
+            {
+              "unit_no": 3,
+              "title": "Consumer Choice: Indifference Theory",
+              "hours": 6
+            },
+            { "unit_no": 4, "title": "Production", "hours": 6 },
+            { "unit_no": 5, "title": "Costs and Revenue", "hours": 5 },
+            { "unit_no": 6, "title": "Market Structure", "hours": 8 },
+            {
+              "unit_no": 7,
+              "title": "National Product and its Measurement",
+              "hours": 4
+            },
+            { "unit_no": 8, "title": "Macroeconomic Policies", "hours": 2 }
+          ]
+        },
+        {
+          "code": "BIT201",
+          "title": "Data Structures and Algorithms",
+          "semester": 3,
+          "category": "Core",
+          "credit_hours": 3,
+          "nature": "Theory + Lab",
+          "full_marks": 100,
+          "pass_marks": 40,
+          "evaluation": {
+            "theory_final": 60,
+            "theory_internal": 20,
+            "practical_internal": 20
+          },
+          "units": [
+            {
+              "unit_no": 1,
+              "title": "Background and Concept of Data Structures",
+              "hours": 2
+            },
+            { "unit_no": 2, "title": "Algorithms", "hours": 2 },
+            { "unit_no": 3, "title": "Stack", "hours": 4 },
+            { "unit_no": 4, "title": "Queue", "hours": 3 },
+            { "unit_no": 5, "title": "Recursion", "hours": 2 },
+            { "unit_no": 6, "title": "List", "hours": 9 },
+            { "unit_no": 7, "title": "Tree", "hours": 7 },
+            { "unit_no": 8, "title": "Sorting", "hours": 6 },
+            { "unit_no": 9, "title": "Searching", "hours": 5 },
+            { "unit_no": 10, "title": "Graph", "hours": 5 }
+          ]
+        },
+        {
+          "code": "BIT202",
+          "title": "Database Management System",
+          "semester": 3,
+          "category": "Core",
+          "credit_hours": 3,
+          "nature": "Theory + Lab",
+          "full_marks": 100,
+          "pass_marks": 40,
+          "evaluation": {
+            "theory_final": 60,
+            "theory_internal": 20,
+            "practical_internal": 20
+          },
+          "units": [
+            {
+              "unit_no": 1,
+              "title": "Database Concepts and Architecture",
+              "hours": 4
+            },
+            {
+              "unit_no": 2,
+              "title": "Data Modeling Using the Entity-Relational Model",
+              "hours": 5
+            },
+            {
+              "unit_no": 3,
+              "title": "The Relational Data Model and Relational Database Constraints",
+              "hours": 5
+            },
+            { "unit_no": 4, "title": "SQL", "hours": 10 },
+            { "unit_no": 5, "title": "Relational Database Design", "hours": 7 },
+            {
+              "unit_no": 6,
+              "title": "Transaction Processing and Concurrency Control, and Recovery",
+              "hours": 8
+            },
+            {
+              "unit_no": 7,
+              "title": "Database Recovery Techniques",
+              "hours": 3
+            },
+            { "unit_no": 8, "title": "NoSQL", "hours": 3 }
+          ]
+        },
+        {
+          "code": "BIT203",
+          "title": "Numerical Methods",
+          "semester": 3,
+          "category": "Core",
+          "credit_hours": 3,
+          "nature": "Theory + Lab",
+          "full_marks": 100,
+          "pass_marks": 40,
+          "evaluation": {
+            "theory_final": 60,
+            "theory_internal": 20,
+            "practical_internal": 20
+          },
+          "units": [
+            {
+              "unit_no": 1,
+              "title": "Solution of Nonlinear Equations",
+              "hours": 7
+            },
+            {
+              "unit_no": 2,
+              "title": "Interpolation and Regression",
+              "hours": 8
+            },
+            {
+              "unit_no": 3,
+              "title": "Numerical Differentiation and Integration",
+              "hours": 9
+            },
+            {
+              "unit_no": 4,
+              "title": "Solving System of Linear Equations",
+              "hours": 8
+            },
+            {
+              "unit_no": 5,
+              "title": "Solution of Ordinary Differential Equations",
+              "hours": 8
+            },
+            {
+              "unit_no": 6,
+              "title": "Solution of Partial Differential Equations",
+              "hours": 5
+            }
+          ]
+        },
+        {
+          "code": "BIT204",
+          "title": "Operating Systems",
+          "semester": 3,
+          "category": "Core",
+          "credit_hours": 3,
+          "nature": "Theory + Lab",
+          "full_marks": 100,
+          "pass_marks": 40,
+          "evaluation": {
+            "theory_final": 60,
+            "theory_internal": 20,
+            "practical_internal": 20
+          },
+          "units": [
+            { "unit_no": 1, "title": "Introduction and Evolution", "hours": 6 },
+            { "unit_no": 2, "title": "System Structures", "hours": 4 },
+            {
+              "unit_no": 3,
+              "title": "Process Management and Synchronization",
+              "hours": 10
+            },
+            {
+              "unit_no": 4,
+              "title": "Memory Management and File System",
+              "hours": 13
+            },
+            { "unit_no": 5, "title": "Input/Output Management", "hours": 12 }
+          ]
+        },
+        {
+          "code": "MGT205",
+          "title": "Principles of Management",
+          "semester": 3,
+          "category": "Core",
+          "credit_hours": 3,
+          "nature": "Theory",
+          "full_marks": 100,
+          "pass_marks": 40,
+          "evaluation": {
+            "theory_final": 60,
+            "theory_internal": 40,
+            "practical_internal": 0
+          },
+          "units": [
+            {
+              "unit_no": 1,
+              "title": "Introduction to Managers and Management",
+              "hours": 5
+            },
+            {
+              "unit_no": 2,
+              "title": "Organizational Culture and Environment",
+              "hours": 5
+            },
+            {
+              "unit_no": 3,
+              "title": "Decision Making the Essence of Manager's Job",
+              "hours": 5
+            },
+            { "unit_no": 4, "title": "Planning", "hours": 5 },
+            {
+              "unit_no": 5,
+              "title": "Organization Structure and Design",
+              "hours": 5
+            },
+            { "unit_no": 6, "title": "Motivation", "hours": 5 },
+            { "unit_no": 7, "title": "Leadership", "hours": 4 },
+            { "unit_no": 8, "title": "Communication", "hours": 4 },
+            { "unit_no": 9, "title": "Controlling", "hours": 4 },
+            {
+              "unit_no": 10,
+              "title": "Controlling Tools and Techniques",
+              "hours": 3
+            }
+          ]
+        },
+        {
+          "code": "BIT251",
+          "title": "Web Technology I",
+          "semester": 4,
+          "category": "Core",
+          "credit_hours": 3,
+          "nature": "Theory + Lab",
+          "full_marks": 100,
+          "pass_marks": 40,
+          "evaluation": {
+            "theory_final": 60,
+            "theory_internal": 20,
+            "practical_internal": 20
+          },
+          "units": [
+            { "unit_no": 1, "title": "Introduction", "hours": 4 },
+            { "unit_no": 2, "title": "Markup Language", "hours": 11 },
+            { "unit_no": 3, "title": "Style Sheets", "hours": 10 },
+            { "unit_no": 4, "title": "Client Side Scripting", "hours": 12 },
+            { "unit_no": 5, "title": "XML", "hours": 8 }
+          ]
+        },
+        {
+          "code": "BIT252",
+          "title": "Artificial Intelligence",
+          "semester": 4,
+          "category": "Core",
+          "credit_hours": 3,
+          "nature": "Theory + Lab",
+          "full_marks": 100,
+          "pass_marks": 40,
+          "evaluation": {
+            "theory_final": 60,
+            "theory_internal": 20,
+            "practical_internal": 20
+          },
+          "units": [
+            { "unit_no": 1, "title": "Introduction", "hours": 3 },
+            { "unit_no": 2, "title": "Agents", "hours": 5 },
+            {
+              "unit_no": 3,
+              "title": "Problem Solving by Searching",
+              "hours": 10
+            },
+            { "unit_no": 4, "title": "Knowledge Representation", "hours": 14 },
+            { "unit_no": 5, "title": "Neural Network", "hours": 2 },
+            { "unit_no": 6, "title": "Machine Learning", "hours": 5 },
+            { "unit_no": 7, "title": "Expert System", "hours": 3 },
+            { "unit_no": 8, "title": "Natural Language Processing", "hours": 3 }
+          ]
+        },
+        {
+          "code": "BIT253",
+          "title": "Systems Analysis and Design",
+          "semester": 4,
+          "category": "Core",
+          "credit_hours": 3,
+          "nature": "Theory + Lab",
+          "full_marks": 100,
+          "pass_marks": 40,
+          "evaluation": {
+            "theory_final": 60,
+            "theory_internal": 20,
+            "practical_internal": 20
+          },
+          "units": [
+            {
+              "unit_no": 1,
+              "title": "Foundations for Systems Development",
+              "hours": 12
+            },
+            { "unit_no": 2, "title": "Planning", "hours": 5 },
+            { "unit_no": 3, "title": "Analysis", "hours": 13 },
+            { "unit_no": 4, "title": "Design", "hours": 7 },
+            {
+              "unit_no": 5,
+              "title": "Implementation and Maintenance",
+              "hours": 4
+            }
+          ]
+        },
+        {
+          "code": "BIT254",
+          "title": "Network and Data Communications",
+          "semester": 4,
+          "category": "Core",
+          "credit_hours": 3,
+          "nature": "Theory + Lab",
+          "full_marks": 100,
+          "pass_marks": 40,
+          "evaluation": {
+            "theory_final": 60,
+            "theory_internal": 20,
+            "practical_internal": 20
+          },
+          "units": [
+            {
+              "unit_no": 1,
+              "title": "Fundamental of Data Communication",
+              "hours": 6
+            },
+            { "unit_no": 2, "title": "Physical Layer and Media", "hours": 12 },
+            { "unit_no": 3, "title": "Data Link Layer", "hours": 8 },
+            { "unit_no": 4, "title": "Network Layer", "hours": 8 },
+            { "unit_no": 5, "title": "Transport Layer", "hours": 6 },
+            { "unit_no": 6, "title": "Application Layer", "hours": 5 }
+          ]
+        },
+        {
+          "code": "ORS255",
+          "title": "Operations Research",
+          "semester": 4,
+          "category": "Core",
+          "credit_hours": 3,
+          "nature": "Theory",
+          "full_marks": 100,
+          "pass_marks": 40,
+          "evaluation": {
+            "theory_final": 60,
+            "theory_internal": 40,
+            "practical_internal": 0
+          },
+          "units": [
+            { "unit_no": 1, "title": "Introduction", "hours": 3 },
+            {
+              "unit_no": 2,
+              "title": "Optimization (Linear Programming, Transportation, Assignment)",
+              "hours": 17
+            },
+            { "unit_no": 3, "title": "Queuing Models", "hours": 6 },
+            { "unit_no": 4, "title": "Theory of Games", "hours": 6 },
+            { "unit_no": 5, "title": "Decision Theory", "hours": 5 },
+            { "unit_no": 6, "title": "Networking Analysis", "hours": 8 }
+          ]
+        },
+        {
+          "code": "BIT301",
+          "title": "Web Technology II",
+          "semester": 5,
+          "category": "Core",
+          "credit_hours": 3,
+          "nature": "Theory + Lab",
+          "full_marks": 100,
+          "pass_marks": 40,
+          "evaluation": {
+            "theory_final": 60,
+            "theory_internal": 20,
+            "practical_internal": 20
+          },
+          "units": [
+            { "unit_no": 1, "title": "Introduction", "hours": 8 },
+            { "unit_no": 2, "title": "Functions", "hours": 5 },
+            { "unit_no": 3, "title": "Strings and Arrays", "hours": 8 },
+            { "unit_no": 4, "title": "Objects", "hours": 6 },
+            { "unit_no": 5, "title": "Handling Forms", "hours": 4 },
+            { "unit_no": 6, "title": "Working with Database", "hours": 5 },
+            {
+              "unit_no": 7,
+              "title": "Cookies, Sessions and Authentication",
+              "hours": 3
+            },
+            { "unit_no": 8, "title": "Debugging PHP", "hours": 3 },
+            { "unit_no": 9, "title": "File Handling", "hours": 3 }
+          ]
+        },
+        {
+          "code": "BIT302",
+          "title": "Software Engineering",
+          "semester": 5,
+          "category": "Core",
+          "credit_hours": 3,
+          "nature": "Theory + Lab",
+          "full_marks": 100,
+          "pass_marks": 40,
+          "evaluation": {
+            "theory_final": 60,
+            "theory_internal": 20,
+            "practical_internal": 20
+          },
+          "units": [
+            { "unit_no": 1, "title": "Introduction", "hours": 2 },
+            { "unit_no": 2, "title": "Software Process Model", "hours": 8 },
+            { "unit_no": 3, "title": "Requirements Engineering", "hours": 3 },
+            { "unit_no": 4, "title": "System Modeling", "hours": 6 },
+            { "unit_no": 5, "title": "Architectural Design", "hours": 6 },
+            { "unit_no": 6, "title": "Design and Implementation", "hours": 5 },
+            { "unit_no": 7, "title": "Software Testing", "hours": 5 },
+            {
+              "unit_no": 8,
+              "title": "Project Management and Planning",
+              "hours": 5
+            },
+            { "unit_no": 9, "title": "Software Quality Assurance", "hours": 3 },
+            { "unit_no": 10, "title": "Configuration Management", "hours": 2 }
+          ]
+        },
+        {
+          "code": "BIT303",
+          "title": "Information Security",
+          "semester": 5,
+          "category": "Core",
+          "credit_hours": 3,
+          "nature": "Theory + Lab",
+          "full_marks": 100,
+          "pass_marks": 40,
+          "evaluation": {
+            "theory_final": 60,
+            "theory_internal": 20,
+            "practical_internal": 20
+          },
+          "units": [
+            { "unit_no": 1, "title": "Introduction", "hours": 4 },
+            {
+              "unit_no": 2,
+              "title": "Symmetric and Asymmetric Encryption Algorithms",
+              "hours": 10
+            },
+            { "unit_no": 3, "title": "Message Authentication", "hours": 6 },
+            { "unit_no": 4, "title": "User Authentication", "hours": 5 },
+            { "unit_no": 5, "title": "Access Control", "hours": 5 },
+            { "unit_no": 6, "title": "Malicious Software", "hours": 6 },
+            {
+              "unit_no": 7,
+              "title": "IT Security Management, Risk Assessment and Security Auditing",
+              "hours": 5
+            },
+            { "unit_no": 8, "title": "Legal and Ethical Issues", "hours": 4 }
+          ]
+        },
+        {
+          "code": "BIT304",
+          "title": "Computer Graphics",
+          "semester": 5,
+          "category": "Core",
+          "credit_hours": 3,
+          "nature": "Theory + Lab",
+          "full_marks": 100,
+          "pass_marks": 40,
+          "evaluation": {
+            "theory_final": 60,
+            "theory_internal": 20,
+            "practical_internal": 20
+          },
+          "units": [
+            {
+              "unit_no": 1,
+              "title": "Introduction and Overview of Graphics System",
+              "hours": 3
+            },
+            { "unit_no": 2, "title": "Output Primitives", "hours": 6 },
+            {
+              "unit_no": 3,
+              "title": "Two Dimensional Geometric Transformations",
+              "hours": 3
+            },
+            {
+              "unit_no": 4,
+              "title": "Two-Dimensional Viewing and Clipping",
+              "hours": 3
+            },
+            { "unit_no": 5, "title": "Three-Dimensional Graphics", "hours": 6 },
+            {
+              "unit_no": 6,
+              "title": "Three-Dimensional Object Representation and Curve Modeling",
+              "hours": 6
+            },
+            { "unit_no": 7, "title": "Visible Surface Detection", "hours": 6 },
+            {
+              "unit_no": 8,
+              "title": "Illumination and Surface Rendering Methods",
+              "hours": 6
+            },
+            {
+              "unit_no": 9,
+              "title": "Virtual Reality and Animation",
+              "hours": 3
+            },
+            { "unit_no": 10, "title": "Introduction to OpenGL", "hours": 2 }
+          ]
+        },
+        {
+          "code": "ENG305",
+          "title": "Technical Writing",
+          "semester": 5,
+          "category": "Core",
+          "credit_hours": 3,
+          "nature": "Theory + Lab",
+          "full_marks": 100,
+          "pass_marks": 40,
+          "evaluation": {
+            "theory_final": 60,
+            "theory_internal": 40,
+            "practical_internal": 0
+          },
+          "units": [
+            {
+              "unit_no": 1,
+              "title": "Why Technical People Needn't Fear Writing",
+              "hours": 3
+            },
+            {
+              "unit_no": 2,
+              "title": "Technical Sentences Introduction",
+              "hours": 3
+            },
+            { "unit_no": 3, "title": "Emails, Letters, and Memos", "hours": 4 },
+            {
+              "unit_no": 4,
+              "title": "Short Reports, Proposals, and Technical Documents",
+              "hours": 4
+            },
+            { "unit_no": 5, "title": "Formal Reports", "hours": 3 },
+            {
+              "unit_no": 6,
+              "title": "Intercultural Communication, Collaborative Writing, and Document Control",
+              "hours": 4
+            },
+            { "unit_no": 7, "title": "Technical Graphics", "hours": 5 },
+            {
+              "unit_no": 8,
+              "title": "Technical Definitions and Descriptions",
+              "hours": 3
+            },
+            {
+              "unit_no": 9,
+              "title": "Instructions, Procedures, and Manuals",
+              "hours": 5
+            },
+            { "unit_no": 10, "title": "Oral Presentations", "hours": 4 },
+            { "unit_no": 11, "title": "Ethics", "hours": 2 },
+            { "unit_no": 12, "title": "Job Application Packages", "hours": 3 },
+            { "unit_no": 13, "title": "Grammar and Usage", "hours": 2 }
+          ]
+        },
+        {
+          "code": "BIT351",
+          "title": ".NET Centric Computing",
+          "semester": 6,
+          "category": "Core",
+          "credit_hours": 3,
+          "nature": "Theory + Lab",
+          "full_marks": 100,
+          "pass_marks": 40,
+          "evaluation": {
+            "theory_final": 60,
+            "theory_internal": 20,
+            "practical_internal": 20
+          },
+          "units": [
+            { "unit_no": 1, "title": "Language Preliminaries", "hours": 8 },
+            { "unit_no": 2, "title": "Introduction to ASP.NET", "hours": 3 },
+            { "unit_no": 3, "title": "HTTP and ASP.NET Core", "hours": 3 },
+            {
+              "unit_no": 4,
+              "title": "Creating ASP.NET Core MVC Applications",
+              "hours": 7
+            },
+            { "unit_no": 5, "title": "Working with Database", "hours": 6 },
+            {
+              "unit_no": 6,
+              "title": "State Management on ASP.NET Core Application",
+              "hours": 4
+            },
+            {
+              "unit_no": 7,
+              "title": "Client-side Development in ASP.NET Core",
+              "hours": 4
+            },
+            {
+              "unit_no": 8,
+              "title": "Building Applications with React and ASP.NET Core",
+              "hours": 3
+            },
+            {
+              "unit_no": 9,
+              "title": "Securing in ASP.NET Core Application",
+              "hours": 5
+            },
+            {
+              "unit_no": 10,
+              "title": "Hosting and Deploying ASP.NET Core Application",
+              "hours": 2
+            }
+          ]
+        },
+        {
+          "code": "BIT352",
+          "title": "Database Administration",
+          "semester": 6,
+          "category": "Core",
+          "credit_hours": 3,
+          "nature": "Theory + Lab",
+          "full_marks": 100,
+          "pass_marks": 40,
+          "evaluation": {
+            "theory_final": 60,
+            "theory_internal": 20,
+            "practical_internal": 20
+          },
+          "units": [
+            {
+              "unit_no": 1,
+              "title": "Introduction Administration Basics",
+              "hours": 7
+            },
+            {
+              "unit_no": 2,
+              "title": "Network Environment and Storage Structures",
+              "hours": 5
+            },
+            { "unit_no": 3, "title": "Users and Privileges", "hours": 5 },
+            {
+              "unit_no": 4,
+              "title": "Profiles, Resources, and Auditing",
+              "hours": 4
+            },
+            {
+              "unit_no": 5,
+              "title": "Concurrency, Backup and Recovery",
+              "hours": 7
+            },
+            {
+              "unit_no": 6,
+              "title": "Database Maintenance and Performance Management",
+              "hours": 4
+            },
+            { "unit_no": 7, "title": "Tuning and Moving", "hours": 5 },
+            {
+              "unit_no": 8,
+              "title": "Managing Resources and Scheduling Tasks",
+              "hours": 4
+            },
+            {
+              "unit_no": 9,
+              "title": "Space Management and Oracle Support",
+              "hours": 4
+            }
+          ]
+        },
+        {
+          "code": "BIT353",
+          "title": "Management Information System",
+          "semester": 6,
+          "category": "Core",
+          "credit_hours": 3,
+          "nature": "Theory + Lab",
+          "full_marks": 100,
+          "pass_marks": 40,
+          "evaluation": {
+            "theory_final": 60,
+            "theory_internal": 20,
+            "practical_internal": 20
+          },
+          "units": [
+            {
+              "unit_no": 1,
+              "title": "Information Systems in Global Business Today",
+              "hours": 3
+            },
+            {
+              "unit_no": 2,
+              "title": "Global Business and Collaboration",
+              "hours": 6
+            },
+            {
+              "unit_no": 3,
+              "title": "Information Systems, Organization, and Strategy",
+              "hours": 8
+            },
+            {
+              "unit_no": 4,
+              "title": "Ethical and Social Issues in Information Systems",
+              "hours": 7
+            },
+            {
+              "unit_no": 5,
+              "title": "Foundations of Business Intelligence",
+              "hours": 8
+            },
+            {
+              "unit_no": 6,
+              "title": "Key System Applications for Digital Age",
+              "hours": 7
+            },
+            { "unit_no": 7, "title": "Enhancing Decision Making", "hours": 6 }
+          ]
+        },
+        {
+          "code": "RSM354",
+          "title": "Research Methodology",
+          "semester": 6,
+          "category": "Core",
+          "credit_hours": 3,
+          "nature": "Theory",
+          "full_marks": 100,
+          "pass_marks": 40,
+          "evaluation": {
+            "theory_final": 60,
+            "theory_internal": 40,
+            "practical_internal": 0
+          },
+          "units": [
+            {
+              "unit_no": 1,
+              "title": "Introduction to Research Methodology",
+              "hours": 4
+            },
+            { "unit_no": 2, "title": "Research Design", "hours": 6 },
+            {
+              "unit_no": 3,
+              "title": "Identification and Formulation of Research Question",
+              "hours": 5
+            },
+            { "unit_no": 4, "title": "Review of Literature", "hours": 10 },
+            {
+              "unit_no": 5,
+              "title": "Methods of Data Collection and Sampling Techniques",
+              "hours": 7
+            },
+            { "unit_no": 6, "title": "Measurement and Scaling", "hours": 3 },
+            {
+              "unit_no": 7,
+              "title": "Data Analysis and Report Preparation",
+              "hours": 10
+            }
+          ]
+        },
+        {
+          "code": "BIT355",
+          "title": "Geographical Information System",
+          "semester": 6,
+          "category": "Elective I",
+          "credit_hours": 3,
+          "nature": "Theory + Lab",
+          "full_marks": 100,
+          "pass_marks": 40,
+          "evaluation": {
+            "theory_final": 60,
+            "theory_internal": 20,
+            "practical_internal": 20
+          },
+          "units": [
+            {
+              "unit_no": 1,
+              "title": "The Basics of Geographic Information System",
+              "hours": 5
+            },
+            {
+              "unit_no": 2,
+              "title": "Mapping the Real World with Vector and Raster Data",
+              "hours": 8
+            },
+            {
+              "unit_no": 3,
+              "title": "Data Acquisition Techniques in GIS",
+              "hours": 8
+            },
+            {
+              "unit_no": 4,
+              "title": "Map Projection and Coordinate System",
+              "hours": 6
+            },
+            { "unit_no": 5, "title": "Vector Data Analysis", "hours": 7 },
+            { "unit_no": 6, "title": "Raster Data Analysis", "hours": 7 },
+            { "unit_no": 7, "title": "Open GIS and Applications", "hours": 4 }
+          ]
+        },
+        {
+          "code": "BIT356",
+          "title": "Multimedia Computing",
+          "semester": 6,
+          "category": "Elective I",
+          "credit_hours": 3,
+          "nature": "Theory + Lab",
+          "full_marks": 100,
+          "pass_marks": 40,
+          "evaluation": {
+            "theory_final": 60,
+            "theory_internal": 20,
+            "practical_internal": 20
+          },
+          "units": [
+            { "unit_no": 1, "title": "Introduction", "hours": 2 },
+            {
+              "unit_no": 2,
+              "title": "Text / Sound / Audio System",
+              "hours": 7
+            },
+            { "unit_no": 3, "title": "Image and Video", "hours": 6 },
+            { "unit_no": 4, "title": "Video and Animation", "hours": 8 },
+            { "unit_no": 5, "title": "Data Compression", "hours": 5 },
+            {
+              "unit_no": 6,
+              "title": "Abstraction for Programming",
+              "hours": 5
+            },
+            { "unit_no": 7, "title": "Multimedia Design", "hours": 4 },
+            { "unit_no": 8, "title": "User Interfaces", "hours": 4 },
+            { "unit_no": 9, "title": "Multimedia Application", "hours": 4 }
+          ]
+        },
+        {
+          "code": "BIT357",
+          "title": "Wireless Networking",
+          "semester": 6,
+          "category": "Elective I",
+          "credit_hours": 3,
+          "nature": "Theory + Lab",
+          "full_marks": 100,
+          "pass_marks": 40,
+          "evaluation": {
+            "theory_final": 60,
+            "theory_internal": 20,
+            "practical_internal": 20
+          },
+          "units": [
+            {
+              "unit_no": 1,
+              "title": "Overview of Wireless Communications and Systems",
+              "hours": 2
+            },
+            {
+              "unit_no": 2,
+              "title": "Wireless Channel Characterization",
+              "hours": 7
+            },
+            {
+              "unit_no": 3,
+              "title": "Band Pass Transmission Technique for Mobile Radio",
+              "hours": 9
+            },
+            {
+              "unit_no": 4,
+              "title": "Equalization, Diversity and Channel Coding",
+              "hours": 4
+            },
+            {
+              "unit_no": 5,
+              "title": "Fundamental of Cellular Network",
+              "hours": 6
+            },
+            {
+              "unit_no": 6,
+              "title": "Multiple Access in Wireless Network",
+              "hours": 6
+            },
+            {
+              "unit_no": 7,
+              "title": "Mobility Management in Wireless Network",
+              "hours": 5
+            },
+            { "unit_no": 8, "title": "Wireless Internetworking", "hours": 6 }
+          ]
+        },
+        {
+          "code": "BIT358",
+          "title": "Society and Ethics in IT",
+          "semester": 6,
+          "category": "Elective I",
+          "credit_hours": 3,
+          "nature": "Theory + Lab",
+          "full_marks": 100,
+          "pass_marks": 40,
+          "evaluation": {
+            "theory_final": 60,
+            "theory_internal": 20,
+            "practical_internal": 20
+          },
+          "units": [
+            { "unit_no": 1, "title": "Introduction", "hours": 4 },
+            {
+              "unit_no": 2,
+              "title": "Ethics, Ethical Analysis, and Professions",
+              "hours": 4
+            },
+            {
+              "unit_no": 3,
+              "title": "Anonymity, Security, Privacy, and Civil Liberties",
+              "hours": 5
+            },
+            {
+              "unit_no": 4,
+              "title": "Intellectual Property Rights and Computer Technology",
+              "hours": 7
+            },
+            {
+              "unit_no": 5,
+              "title": "Social Context of Computing",
+              "hours": 6
+            },
+            { "unit_no": 6, "title": "Software Issues", "hours": 6 },
+            {
+              "unit_no": 7,
+              "title": "New Frontiers for Computer Ethics",
+              "hours": 6
+            },
+            {
+              "unit_no": 8,
+              "title": "Cyberbullying, Computer Crime Investigation, and Ethics",
+              "hours": 7
+            }
+          ]
+        },
+        {
+          "code": "PSY359",
+          "title": "Psychology",
+          "semester": 6,
+          "category": "Elective I",
+          "credit_hours": 3,
+          "nature": "Theory",
+          "full_marks": 100,
+          "pass_marks": 40,
+          "evaluation": {
+            "theory_final": 60,
+            "theory_internal": 40,
+            "practical_internal": 0
+          },
+          "units": [
+            { "unit_no": 1, "title": "Introduction", "hours": 5 },
+            { "unit_no": 2, "title": "Perception", "hours": 5 },
+            { "unit_no": 3, "title": "Learning", "hours": 5 },
+            { "unit_no": 4, "title": "Memory and Forgetting", "hours": 6 },
+            { "unit_no": 5, "title": "Cognition", "hours": 5 },
+            { "unit_no": 6, "title": "Emotion and Motivation", "hours": 5 },
+            { "unit_no": 7, "title": "Intelligence", "hours": 5 },
+            { "unit_no": 8, "title": "Personality", "hours": 5 },
+            {
+              "unit_no": 9,
+              "title": "Social Thought and Behaviors",
+              "hours": 4
+            }
+          ]
+        },
+        {
+          "code": "BIT401",
+          "title": "Advanced Java Programming",
+          "semester": 7,
+          "category": "Core",
+          "credit_hours": 3,
+          "nature": "Theory + Lab",
+          "full_marks": 100,
+          "pass_marks": 40,
+          "evaluation": {
+            "theory_final": 60,
+            "theory_internal": 20,
+            "practical_internal": 20
+          },
+          "units": [
+            { "unit_no": 1, "title": "Programming in Java", "hours": 8 },
+            {
+              "unit_no": 2,
+              "title": "User Interface Components with Swing",
+              "hours": 10
+            },
+            { "unit_no": 3, "title": "Event Handling", "hours": 4 },
+            { "unit_no": 4, "title": "GUI with JavaFX", "hours": 3 },
+            { "unit_no": 5, "title": "Java Database Connectivity", "hours": 4 },
+            { "unit_no": 6, "title": "Network Programming", "hours": 5 },
+            {
+              "unit_no": 7,
+              "title": "Servlets and Java Server pages",
+              "hours": 8
+            },
+            { "unit_no": 8, "title": "RMI and CORBA", "hours": 3 }
+          ]
+        },
+        {
+          "code": "BIT402",
+          "title": "Software Project Management",
+          "semester": 7,
+          "category": "Core",
+          "credit_hours": 3,
+          "nature": "Theory + Lab",
+          "full_marks": 100,
+          "pass_marks": 40,
+          "evaluation": {
+            "theory_final": 60,
+            "theory_internal": 20,
+            "practical_internal": 20
+          },
+          "units": [
+            {
+              "unit_no": 1,
+              "title": "Introduction to Software Project Management",
+              "hours": 3
+            },
+            {
+              "unit_no": 2,
+              "title": "Project Evaluation and Program Management",
+              "hours": 5
+            },
+            {
+              "unit_no": 3,
+              "title": "An Overview of Project Planning",
+              "hours": 2
+            },
+            {
+              "unit_no": 4,
+              "title": "Selection of an Appropriate Project Approach",
+              "hours": 5
+            },
+            { "unit_no": 5, "title": "Software Effort Estimation", "hours": 5 },
+            { "unit_no": 6, "title": "Activity Planning", "hours": 5 },
+            {
+              "unit_no": 7,
+              "title": "Risk Management and Resource Allocation",
+              "hours": 6
+            },
+            { "unit_no": 8, "title": "Monitoring and Control", "hours": 4 },
+            { "unit_no": 9, "title": "Managing Contracts", "hours": 3 },
+            {
+              "unit_no": 10,
+              "title": "Managing People in Software Environments and working in teams",
+              "hours": 4
+            },
+            {
+              "unit_no": 11,
+              "title": "Software Quality and Project Closeout",
+              "hours": 3
+            }
+          ]
+        },
+        {
+          "code": "BIT403",
+          "title": "E-Commerce",
+          "semester": 7,
+          "category": "Core",
+          "credit_hours": 3,
+          "nature": "Theory + Lab",
+          "full_marks": 100,
+          "pass_marks": 40,
+          "evaluation": {
+            "theory_final": 60,
+            "theory_internal": 20,
+            "practical_internal": 20
+          },
+          "units": [
+            { "unit_no": 1, "title": "Introduction", "hours": 4 },
+            { "unit_no": 2, "title": "E-commerce Business Models", "hours": 8 },
+            { "unit_no": 3, "title": "E-Commerce Security", "hours": 8 },
+            { "unit_no": 4, "title": "E-commerce Payment Systems", "hours": 8 },
+            { "unit_no": 5, "title": "Building E-commerce System", "hours": 5 },
+            {
+              "unit_no": 6,
+              "title": "E-Commerce Marketing and Advertising",
+              "hours": 7
+            },
+            {
+              "unit_no": 7,
+              "title": "Optimizing E-commerce Systems",
+              "hours": 5
+            }
+          ]
+        },
+        {
+          "code": "BIT404",
+          "title": "Project work",
+          "semester": 7,
+          "category": "Core",
+          "credit_hours": 3,
+          "nature": "Lab",
+          "full_marks": 100,
+          "pass_marks": 40,
+          "evaluation": {
+            "theory_final": 0,
+            "theory_internal": 0,
+            "practical_internal": 80
+          },
+          "units": []
+        },
+        {
+          "code": "BIT405",
+          "title": "DSS and Expert System",
+          "semester": 7,
+          "category": "Elective",
+          "credit_hours": 3,
+         "nature": "Theory + Lab",
+          "full_marks": 100,
+          "pass_marks": 40,
+          "evaluation": {
+            "theory_final": 60,
+            "theory_internal": 20,
+            "practical_internal": 20
+          },
+          "units": [
+            {
+              "unit_no": 1,
+              "title": "Introduction to management Support Systems and Decision making",
+              "hours": 14
+            },
+            {
+              "unit_no": 2,
+              "title": "The Make-up of a Decision Support System",
+              "hours": 15
+            },
+            { "unit_no": 3, "title": "Modeling Decisions", "hours": 6 },
+            { "unit_no": 4, "title": "Expert Systems", "hours": 10 }
+          ]
+        },
+        {
+          "code": "BIT406",
+          "title": "Mobile Application Development",
+          "semester": 7,
+          "category": "Elective",
+          "credit_hours": 3,
+          "nature": "Theory + Lab",
+          "full_marks": 100,
+          "pass_marks": 40,
+          "evaluation": {
+            "theory_final": 60,
+            "theory_internal": 20,
+            "practical_internal": 20
+          },
+          "units": [
+            {
+              "unit_no": 1,
+              "title": "Overview of Mobile Application Development",
+              "hours": 5
+            },
+            {
+              "unit_no": 2,
+              "title": "Architecture, Application Design Issues and Mobile Development Frameworks",
+              "hours": 12
+            },
+            { "unit_no": 3, "title": "User Interaction Design", "hours": 12 },
+            {
+              "unit_no": 4,
+              "title": "Testing and Publishing Apps",
+              "hours": 5
+            },
+            { "unit_no": 5, "title": "Mobile IP Network", "hours": 2 },
+            {
+              "unit_no": 6,
+              "title": "Wireless Connectivity and Mobile Applications",
+              "hours": 4
+            },
+            { "unit_no": 7, "title": "Location and Sensing", "hours": 5 }
+          ]
+        },
+        {
+          "code": "BIT407",
+          "title": "Simulation and Modeling",
+          "semester": 7,
+          "category": "Elective",
+          "credit_hours": 3,
+          "nature": "Theory + Lab",
+          "full_marks": 100,
+          "pass_marks": 40,
+          "evaluation": {
+            "theory_final": 60,
+            "theory_internal": 20,
+            "practical_internal": 20
+          },
+          "units": [
+            { "unit_no": 1, "title": "Introduction to Simulation", "hours": 7 },
+            { "unit_no": 2, "title": "Continuous Systems", "hours": 8 },
+            { "unit_no": 3, "title": "Discrete System Simulation", "hours": 9 },
+            { "unit_no": 4, "title": "Queuing System", "hours": 6 },
+            {
+              "unit_no": 5,
+              "title": "Verification and Validation",
+              "hours": 4
+            },
+            {
+              "unit_no": 6,
+              "title": "Analysis of Simulation Output",
+              "hours": 4
+            },
+            { "unit_no": 7, "title": "Simulation Languages", "hours": 7 }
+          ]
+        },
+        {
+          "code": "BIT408",
+          "title": "Cloud Computing",
+          "semester": 7,
+          "category": "Elective",
+          "credit_hours": 3,
+          "nature": "Theory + Lab",
+          "full_marks": 100,
+          "pass_marks": 40,
+          "evaluation": {
+            "theory_final": 60,
+            "theory_internal": 20,
+            "practical_internal": 20
+          },
+          "units": [
+            {
+              "unit_no": 1,
+              "title": "Introduction to Cloud Computing",
+              "hours": 3
+            },
+            { "unit_no": 2, "title": "Cloud Service Models", "hours": 7 },
+            { "unit_no": 3, "title": "Virtualizations", "hours": 7 },
+            { "unit_no": 4, "title": "SOA and Cloud Management", "hours": 8 },
+            { "unit_no": 5, "title": "Cloud Programming Models", "hours": 10 },
+            { "unit_no": 6, "title": "Cloud Security", "hours": 3 },
+            { "unit_no": 7, "title": "Cloud Based Analytics", "hours": 7 }
+          ]
+        },
+        {
+          "code": "MGT409",
+          "title": "Marketing",
+          "semester": 7,
+          "category": "Elective",
+          "credit_hours": 3,
+          "nature": "Theory + Lab",
+          "full_marks": 100,
+          "pass_marks": 40,
+          "evaluation": {
+            "theory_final": 60,
+            "theory_internal": 40,
+            "practical_internal": 0
+          },
+          "units": [
+            { "unit_no": 1, "title": "Introduction", "hours": 6 },
+            {
+              "unit_no": 2,
+              "title": "Understanding Marketing Environment",
+              "hours": 4
+            },
+            {
+              "unit_no": 3,
+              "title": "Marketing Information System",
+              "hours": 4
+            },
+            { "unit_no": 4, "title": "Buyer Behavior", "hours": 6 },
+            {
+              "unit_no": 5,
+              "title": "Segmentation, Targeting and Positioning Strategies",
+              "hours": 4
+            },
+            { "unit_no": 6, "title": "Product Decisions", "hours": 8 },
+            { "unit_no": 7, "title": "Pricing Decisions", "hours": 4 },
+            { "unit_no": 8, "title": "Distribution Decisions", "hours": 4 },
+            { "unit_no": 9, "title": "Promotion Decisions", "hours": 5 }
+          ]
+        },
+        {
+          "code": "BIT451",
+          "title": "Network and System Administration",
+          "semester": 8,
+          "category": "Core",
+          "credit_hours": 3,
+          "nature": "Theory + Lab",
+          "full_marks": 100,
+          "pass_marks": 40,
+          "evaluation": {
+            "theory_final": 60,
+            "theory_internal": 20,
+            "practical_internal": 20
+          },
+          "units": [
+            { "unit_no": 1, "title": "Networking Fundamentals", "hours": 4 },
+            { "unit_no": 2, "title": "Systems Administration", "hours": 8 },
+            { "unit_no": 3, "title": "Network Administrations", "hours": 7 },
+            {
+              "unit_no": 4,
+              "title": "Dynamic Host Configuration Protocol (DHCP)",
+              "hours": 3
+            },
+            { "unit_no": 5, "title": "DNS Server Administration", "hours": 7 },
+            {
+              "unit_no": 6,
+              "title": "Web and Proxy Server Administration",
+              "hours": 7
+            },
+            {
+              "unit_no": 7,
+              "title": "Print and FTP Server Administration",
+              "hours": 4
+            },
+            { "unit_no": 8, "title": "Mail Server basics", "hours": 5 }
+          ]
+        },
+        {
+          "code": "BIT453",
+          "title": "Internship",
+          "semester": 8,
+          "category": "Core",
+          "credit_hours": 6,
+          "nature": "Lab/Internship",
+          "full_marks": 200,
+          "pass_marks": 80,
+          "evaluation": {
+            "theory_final": 0,
+            "theory_internal": 0,
+            "practical_internal": 160,
+            "practical_final": 40
+          },
+          "units": []
+        },
+        {
+          "code": "BIT452",
+          "title": "E-Governance",
+          "semester": 8,
+          "category": "Elective",
+          "credit_hours": 3,
+          "nature": "Theory + Lab",
+          "full_marks": 100,
+          "pass_marks": 40,
+          "evaluation": {
+            "theory_final": 60,
+            "theory_internal": 20,
+            "practical_internal": 20
+          },
+          "units": [
+            {
+              "unit_no": 1,
+              "title": "Introduction to E-Government and E-Governance",
+              "hours": 5
+            },
+            { "unit_no": 2, "title": "Models of E-Governance", "hours": 10 },
+            {
+              "unit_no": 3,
+              "title": "E-Government Infrastructure Development",
+              "hours": 10
+            },
+            { "unit_no": 4, "title": "Security for e-Government", "hours": 5 },
+            {
+              "unit_no": 5,
+              "title": "Applications of Data Warehousing and Data Mining in Government",
+              "hours": 5
+            },
+            { "unit_no": 6, "title": "Case Studies", "hours": 10 }
+          ]
+        },
+        {
+          "code": "BIT454",
+          "title": "Data Warehousing and Data Mining",
+          "semester": 8,
+          "category": "Elective",
+          "credit_hours": 3,
+          "nature": "Theory + Lab",
+          "full_marks": 100,
+          "pass_marks": 40,
+          "evaluation": {
+            "theory_final": 60,
+            "theory_internal": 20,
+            "practical_internal": 20
+          },
+          "units": [
+            {
+              "unit_no": 1,
+              "title": "Introduction to Data Warehousing",
+              "hours": 5
+            },
+            {
+              "unit_no": 2,
+              "title": "Introduction to Data Mining",
+              "hours": 2
+            },
+            { "unit_no": 3, "title": "Data Preprocessing", "hours": 3 },
+            { "unit_no": 4, "title": "Data Cube Technology", "hours": 4 },
+            { "unit_no": 5, "title": "Mining Frequent Patterns", "hours": 6 },
+            {
+              "unit_no": 6,
+              "title": "Classification and Prediction",
+              "hours": 10
+            },
+            { "unit_no": 7, "title": "Cluster Analysis", "hours": 8 },
+            {
+              "unit_no": 8,
+              "title": "Graph Mining and Social Network Analysis",
+              "hours": 5
+            },
+            {
+              "unit_no": 9,
+              "title": "Mining Spatial, Multimedia, Text and Web Data",
+              "hours": 2
+            }
+          ]
+        },
+        {
+          "code": "BIT455",
+          "title": "Knowledge Management",
+          "semester": 8,
+          "category": "Elective",
+          "credit_hours": 3,
+          "nature": "Theory + Lab",
+          "full_marks": 100,
+          "pass_marks": 40,
+          "evaluation": {
+            "theory_final": 60,
+            "theory_internal": 20,
+            "practical_internal": 20
+          },
+          "units": [
+            { "unit_no": 1, "title": "Introduction", "hours": 4 },
+            {
+              "unit_no": 2,
+              "title": "Creating the Culture of Learning and Knowledge Sharing",
+              "hours": 9
+            },
+            {
+              "unit_no": 3,
+              "title": "Knowledge Management - The Tools",
+              "hours": 10
+            },
+            {
+              "unit_no": 4,
+              "title": "Knowledge Management - Application",
+              "hours": 8
+            },
+            { "unit_no": 5, "title": "Future Trends", "hours": 9 }
+          ]
+        },
+        {
+          "code": "BIT456",
+          "title": "Image Processing",
+          "semester": 8,
+          "category": "Elective",
+          "credit_hours": 3,
+          "nature": "Theory + Lab",
+          "full_marks": 100,
+          "pass_marks": 40,
+          "evaluation": {
+            "theory_final": 60,
+            "theory_internal": 20,
+            "practical_internal": 20
+          },
+          "units": [
+            {
+              "unit_no": 1,
+              "title": "Introduction and Fundamentals",
+              "hours": 5
+            },
+            {
+              "unit_no": 2,
+              "title": "Intensity Transformations and Spatial Filtering",
+              "hours": 8
+            },
+            {
+              "unit_no": 3,
+              "title": "Filtering in the Frequency Domain",
+              "hours": 8
+            },
+            {
+              "unit_no": 4,
+              "title": "Image Restoration & Reconstruction",
+              "hours": 8
+            },
+            {
+              "unit_no": 5,
+              "title": "Introduction to Morphological Image Processing",
+              "hours": 2
+            },
+            { "unit_no": 6, "title": "Image Segmentation", "hours": 8 },
+            { "unit_no": 7, "title": "Wavelet Transform", "hours": 2 }
+          ]
+        },
+        {
+          "code": "BIT457",
+          "title": "Network Security",
+          "semester": 8,
+          "category": "Elective",
+          "credit_hours": 3,
+          "nature": "Theory + Lab",
+          "full_marks": 100,
+          "pass_marks": 40,
+          "evaluation": {
+            "theory_final": 60,
+            "theory_internal": 20,
+            "practical_internal": 20
+          },
+          "units": [
+            {
+              "unit_no": 1,
+              "title": "Computer Network Security Fundamentals",
+              "hours": 3
+            },
+            { "unit_no": 2, "title": "User Authentication", "hours": 4 },
+            { "unit_no": 3, "title": "Transport Level Security", "hours": 6 },
+            { "unit_no": 4, "title": "Wireless Network Security", "hours": 6 },
+            { "unit_no": 5, "title": "Electronic Mail Security", "hours": 8 },
+            { "unit_no": 6, "title": "IP Security", "hours": 6 },
+            { "unit_no": 7, "title": "Network Endpoint Security", "hours": 5 },
+            {
+              "unit_no": 8,
+              "title": "Cloud and Internet of Things (IOT) Security",
+              "hours": 7
+            }
+          ]
+        },
+        {
+          "code": "BIT458",
+          "title": "Introduction to Telecommunications",
+          "semester": 8,
+          "category": "Elective",
+          "credit_hours": 3,
+          "nature": "Theory + Lab",
+          "full_marks": 100,
+          "pass_marks": 40,
+          "evaluation": {
+            "theory_final": 60,
+            "theory_internal": 20,
+            "practical_internal": 20
+          },
+          "units": [
+            {
+              "unit_no": 1,
+              "title": "Introduction of Telecommunication",
+              "hours": 5
+            },
+            { "unit_no": 2, "title": "Transmission Network", "hours": 8 },
+            {
+              "unit_no": 3,
+              "title": "Fixed Telephone Network Basics",
+              "hours": 6
+            },
+            {
+              "unit_no": 4,
+              "title": "Wireless Cellular Communication Basics",
+              "hours": 8
+            },
+            {
+              "unit_no": 5,
+              "title": "Role of Telecommunication services for Nation Development",
+              "hours": 8
+            },
+            {
+              "unit_no": 6,
+              "title": "Convergence of Telecommunication Technologies",
+              "hours": 10
+            }
+          ]
+        }
+      ]
+    }
+  }
+}
